@@ -1,6 +1,6 @@
 import re
 tup_list=[]
-with open('playoff_data.txt','r') as p_data:
+with open('raw_playoff_data.txt','r') as p_data:
     header = p_data.readline()
     for lin in p_data.readlines():
         try:
