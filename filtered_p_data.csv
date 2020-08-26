@@ -1,0 +1,864 @@
+Year,Round,Team 1(Ranking),Team 2(Ranking),Series Winner(Ranking),Upset?,Playoff Format
+2019,Eastern Conference First Round,Milwaukee Bucks (1),Detroit Pistons (8),Milwaukee Bucks (1),No,2016 format
+2019,Eastern Conference First Round,Toronto Raptors (2),Orlando Magic (7),Toronto Raptors (2),No,2016 format
+2019,Eastern Conference First Round,Philadelphia 76ers (3),Brooklyn Nets (6),Philadelphia 76ers (3),No,2016 format
+2019,Eastern Conference First Round,Boston Celtics (4),Indiana Pacers (5),Boston Celtics (4),No,2016 format
+2019,Western Conference First Round,Golden State Warriors (1),Los Angeles Clippers (8),Golden State Warriors (1),No,2016 format
+2019,Western Conference First Round,Denver Nuggets (2),San Antonio Spurs (7),Denver Nuggets (2),No,2016 format
+2019,Western Conference First Round,Portland Trail Blazers (3),Oklahoma City Thunder (6),Portland Trail Blazers (3),No,2016 format
+2019,Western Conference First Round,Houston Rockets (4),Utah Jazz (5),Houston Rockets (4),No,2016 format
+2019,Eastern Conference Semifinals,Milwaukee Bucks (1),Boston Celtics (4),Milwaukee Bucks (1),No,2016 format
+2019,Eastern Conference Semifinals,Toronto Raptors (2),Philadelphia 76ers (3),Toronto Raptors (2),No,2016 format
+2019,Western Conference Semifinals,Golden State Warriors (1),Houston Rockets (4),Golden State Warriors (1),No,2016 format
+2019,Western Conference Semifinals,Portland Trail Blazers (3),Denver Nuggets (2),Portland Trail Blazers (3),Yes,2016 format
+2019,Eastern Conference Finals,Toronto Raptors (2),Milwaukee Bucks (1),Toronto Raptors (2),Yes,2016 format
+2019,Western Conference Finals,Golden State Warriors (1),Portland Trail Blazers (3),Golden State Warriors (1),No,2016 format
+2019,Finals,Toronto Raptors (2),Golden State Warriors (1),Toronto Raptors (2),Yes,2016 format
+2018,Eastern Conference First Round,Toronto Raptors (1),Washington Wizards (8),Toronto Raptors (1),No,2016 format
+2018,Eastern Conference First Round,Boston Celtics (2),Milwaukee Bucks (7),Boston Celtics (2),No,2016 format
+2018,Eastern Conference First Round,Philadelphia 76ers (3),Miami Heat (6),Philadelphia 76ers (3),No,2016 format
+2018,Eastern Conference First Round,Cleveland Cavaliers (4),Indiana Pacers (5),Cleveland Cavaliers (4),No,2016 format
+2018,Western Conference First Round,Houston Rockets (1),Minnesota Timberwolves (8),Houston Rockets (1),No,2016 format
+2018,Western Conference First Round,Golden State Warriors (2),San Antonio Spurs (7),Golden State Warriors (2),No,2016 format
+2018,Western Conference First Round,New Orleans Pelicans (6),Portland Trail Blazers (3),New Orleans Pelicans (6),Yes,2016 format
+2018,Western Conference First Round,Utah Jazz (5),Oklahoma City Thunder (4),Utah Jazz (5),Yes,2016 format
+2018,Western Conference Semifinals,Golden State Warriors (2),New Orleans Pelicans (6),Golden State Warriors (2),No,2016 format
+2018,Western Conference Semifinals,Houston Rockets (1),Utah Jazz (5),Houston Rockets (1),No,2016 format
+2018,Eastern Conference Semifinals,Boston Celtics (2),Philadelphia 76ers (3),Boston Celtics (2),No,2016 format
+2018,Eastern Conference Semifinals,Cleveland Cavaliers (4),Toronto Raptors (1),Cleveland Cavaliers (4),Yes,2016 format
+2018,Eastern Conference Finals,Cleveland Cavaliers (4),Boston Celtics (2),Cleveland Cavaliers (4),Yes,2016 format
+2018,Western Conference Finals,Golden State Warriors (2),Houston Rockets (1),Golden State Warriors (2),Yes,2016 format
+2018,Finals,Golden State Warriors (2),Cleveland Cavaliers (4),Golden State Warriors (2),No,2016 format
+2017,Eastern Conference First Round,Boston Celtics (1),Chicago Bulls (8),Boston Celtics (1),No,2016 format
+2017,Eastern Conference First Round,Cleveland Cavaliers (2),Indiana Pacers (7),Cleveland Cavaliers (2),No,2016 format
+2017,Eastern Conference First Round,Toronto Raptors (3),Milwaukee Bucks (6),Toronto Raptors (3),No,2016 format
+2017,Eastern Conference First Round,Washington Wizards (4),Atlanta Hawks (5),Washington Wizards (4),No,2016 format
+2017,Western Conference First Round,Golden State Warriors (1),Portland Trail Blazers (8),Golden State Warriors (1),No,2016 format
+2017,Western Conference First Round,San Antonio Spurs (2),Memphis Grizzlies (7),San Antonio Spurs (2),No,2016 format
+2017,Western Conference First Round,Houston Rockets (3),Oklahoma City Thunder (6),Houston Rockets (3),No,2016 format
+2017,Western Conference First Round,Utah Jazz (5),Los Angeles Clippers (4),Utah Jazz (5),Yes,2016 format
+2017,Eastern Conference Semifinals,Cleveland Cavaliers (2),Toronto Raptors (3),Cleveland Cavaliers (2),No,2016 format
+2017,Eastern Conference Semifinals,Boston Celtics (1),Washington Wizards (4),Boston Celtics (1),No,2016 format
+2017,Western Conference Semifinals,Golden State Warriors (1),Utah Jazz (5),Golden State Warriors (1),No,2016 format
+2017,Western Conference Semifinals,San Antonio Spurs (2),Houston Rockets (3),San Antonio Spurs (2),No,2016 format
+2017,Western Conference Finals,Golden State Warriors (1),San Antonio Spurs (2),Golden State Warriors (1),No,2016 format
+2017,Eastern Conference Finals,Cleveland Cavaliers (2),Boston Celtics (1),Cleveland Cavaliers (2),Yes,2016 format
+2017,Finals,Golden State Warriors (1),Cleveland Cavaliers (2),Golden State Warriors (1),No,2016 format
+2016,Eastern Conference First Round,Cleveland Cavaliers (1),Detroit Pistons (8),Cleveland Cavaliers (1),No,2016 format
+2016,Eastern Conference First Round,Toronto Raptors (2),Indiana Pacers (7),Toronto Raptors (2),No,2016 format
+2016,Eastern Conference First Round,Miami Heat (3),Charlotte Hornets (6),Miami Heat (3),No,2016 format
+2016,Eastern Conference First Round,Atlanta Hawks (4),Boston Celtics (5),Atlanta Hawks (4),No,2016 format
+2016,Western Conference First Round,Golden State Warriors (1),Houston Rockets (8),Golden State Warriors (1),No,2016 format
+2016,Western Conference First Round,San Antonio Spurs (2),Memphis Grizzlies (7),San Antonio Spurs (2),No,2016 format
+2016,Western Conference First Round,Oklahoma City Thunder (3),Dallas Mavericks (6),Oklahoma City Thunder (3),No,2016 format
+2016,Western Conference First Round,Portland Trail Blazers (5),Los Angeles Clippers (4),Portland Trail Blazers (5),Yes,2016 format
+2016,Eastern Conference Semifinals,Cleveland Cavaliers (1),Atlanta Hawks (4),Cleveland Cavaliers (1),No,2016 format
+2016,Eastern Conference Semifinals,Toronto Raptors (2),Miami Heat (3),Toronto Raptors (2),No,2016 format
+2016,Western Conference Semifinals,Golden State Warriors (1),Portland Trail Blazers (5),Golden State Warriors (1),No,2016 format
+2016,Western Conference Semifinals,Oklahoma City Thunder (3),San Antonio Spurs (2),Oklahoma City Thunder (3),Yes,2016 format
+2016,Eastern Conference Finals,Cleveland Cavaliers (1),Toronto Raptors (2),Cleveland Cavaliers (1),No,2016 format
+2016,Western Conference Finals,Golden State Warriors (1),Oklahoma City Thunder (3),Golden State Warriors (1),No,2016 format
+2016,Finals,Cleveland Cavaliers (1),Golden State Warriors (1),Cleveland Cavaliers (1),No,2016 format
+2015,Eastern Conference First Round,Atlanta Hawks (1),Brooklyn Nets (8),Atlanta Hawks (1),No,2007 format
+2015,Eastern Conference First Round,Cleveland Cavaliers (2),Boston Celtics (7),Cleveland Cavaliers (2),No,2007 format
+2015,Eastern Conference First Round,Chicago Bulls (3),Milwaukee Bucks (6),Chicago Bulls (3),No,2007 format
+2015,Eastern Conference First Round,Washington Wizards (5),Toronto Raptors (4),Washington Wizards (5),Yes,2007 format
+2015,Western Conference First Round,Golden State Warriors (1),New Orleans Pelicans (8),Golden State Warriors (1),No,2007 format
+2015,Western Conference First Round,Houston Rockets (2),Dallas Mavericks (7),Houston Rockets (2),No,2007 format
+2015,Western Conference First Round,Los Angeles Clippers (3),San Antonio Spurs (6),Los Angeles Clippers (3),No,2007 format
+2015,Western Conference First Round,Memphis Grizzlies (5),Portland Trail Blazers (4),Memphis Grizzlies (5),Yes,2007 format
+2015,Eastern Conference Semifinals,Cleveland Cavaliers (2),Chicago Bulls (3),Cleveland Cavaliers (2),No,2007 format
+2015,Eastern Conference Semifinals,Atlanta Hawks (1),Washington Wizards (5),Atlanta Hawks (1),No,2007 format
+2015,Western Conference Semifinals,Houston Rockets (2),Los Angeles Clippers (3),Houston Rockets (2),No,2007 format
+2015,Western Conference Semifinals,Golden State Warriors (1),Memphis Grizzlies (5),Golden State Warriors (1),No,2007 format
+2015,Eastern Conference Finals,Cleveland Cavaliers (2),Atlanta Hawks (1),Cleveland Cavaliers (2),Yes,2007 format
+2015,Western Conference Finals,Golden State Warriors (1),Houston Rockets (2),Golden State Warriors (1),No,2007 format
+2015,Finals,Golden State Warriors (1),Cleveland Cavaliers (2),Golden State Warriors (1),No,2007 format
+2014,Eastern Conference First Round,Indiana Pacers (1),Atlanta Hawks (8),Indiana Pacers (1),No,2007 format
+2014,Eastern Conference First Round,Miami Heat (2),Charlotte Bobcats (7),Miami Heat (2),No,2007 format
+2014,Eastern Conference First Round,Brooklyn Nets (6),Toronto Raptors (3),Brooklyn Nets (6),Yes,2007 format
+2014,Eastern Conference First Round,Washington Wizards (5),Chicago Bulls (4),Washington Wizards (5),Yes,2007 format
+2014,Western Conference First Round,San Antonio Spurs (1),Dallas Mavericks (8),San Antonio Spurs (1),No,2007 format
+2014,Western Conference First Round,Oklahoma City Thunder (2),Memphis Grizzlies (7),Oklahoma City Thunder (2),No,2007 format
+2014,Western Conference First Round,Los Angeles Clippers (3),Golden State Warriors (6),Los Angeles Clippers (3),No,2007 format
+2014,Western Conference First Round,Portland Trail Blazers (5),Houston Rockets (4),Portland Trail Blazers (5),Yes,2007 format
+2014,Eastern Conference Semifinals,Indiana Pacers (1),Washington Wizards (5),Indiana Pacers (1),No,2007 format
+2014,Eastern Conference Semifinals,Miami Heat (2),Brooklyn Nets (6),Miami Heat (2),No,2007 format
+2014,Western Conference Semifinals,San Antonio Spurs (1),Portland Trail Blazers (5),San Antonio Spurs (1),No,2007 format
+2014,Western Conference Semifinals,Oklahoma City Thunder (2),Los Angeles Clippers (3),Oklahoma City Thunder (2),No,2007 format
+2014,Eastern Conference Finals,Miami Heat (2),Indiana Pacers (1),Miami Heat (2),Yes,2007 format
+2014,Western Conference Finals,San Antonio Spurs (1),Oklahoma City Thunder (2),San Antonio Spurs (1),No,2007 format
+2014,Finals,San Antonio Spurs (1),Miami Heat (2),San Antonio Spurs (1),No,2007 format
+2013,Eastern Conference First Round,Miami Heat (1),Milwaukee Bucks (8),Miami Heat (1),No,2007 format
+2013,Eastern Conference First Round,New York Knicks (2),Boston Celtics (7),New York Knicks (2),No,2007 format
+2013,Eastern Conference First Round,Indiana Pacers (3),Atlanta Hawks (6),Indiana Pacers (3),No,2007 format
+2013,Eastern Conference First Round,Chicago Bulls (5),Brooklyn Nets (4),Chicago Bulls (5),Yes,2007 format
+2013,Western Conference First Round,Oklahoma City Thunder (1),Houston Rockets (8),Oklahoma City Thunder (1),No,2007 format
+2013,Western Conference First Round,San Antonio Spurs (2),Los Angeles Lakers (7),San Antonio Spurs (2),No,2007 format
+2013,Western Conference First Round,Golden State Warriors (6),Denver Nuggets (3),Golden State Warriors (6),Yes,2007 format
+2013,Western Conference First Round,Memphis Grizzlies (5),Los Angeles Clippers (4),Memphis Grizzlies (5),Yes,2007 format
+2013,Eastern Conference Semifinals,Miami Heat (1),Chicago Bulls (5),Miami Heat (1),No,2007 format
+2013,Eastern Conference Semifinals,Indiana Pacers (3),New York Knicks (2),Indiana Pacers (3),Yes,2007 format
+2013,Western Conference Semifinals,Memphis Grizzlies (5),Oklahoma City Thunder (1),Memphis Grizzlies (5),Yes,2007 format
+2013,Western Conference Semifinals,San Antonio Spurs (2),Golden State Warriors (6),San Antonio Spurs (2),No,2007 format
+2013,Eastern Conference Finals,Miami Heat (1),Indiana Pacers (3),Miami Heat (1),No,2007 format
+2013,Western Conference Finals,San Antonio Spurs (2),Memphis Grizzlies (5),San Antonio Spurs (2),No,2007 format
+2013,Finals,Miami Heat (1),San Antonio Spurs (2),Miami Heat (1),No,2007 format
+2012,Eastern Conference First Round,Philadelphia 76ers (8),Chicago Bulls (1),Philadelphia 76ers (8),Yes,2007 format
+2012,Eastern Conference First Round,Miami Heat (2),New York Knicks (7),Miami Heat (2),No,2007 format
+2012,Eastern Conference First Round,Indiana Pacers (3),Orlando Magic (6),Indiana Pacers (3),No,2007 format
+2012,Eastern Conference First Round,Boston Celtics (4),Atlanta Hawks (5),Boston Celtics (4),No,2007 format
+2012,Western Conference First Round,San Antonio Spurs (1),Utah Jazz (8),San Antonio Spurs (1),No,2007 format
+2012,Western Conference First Round,Oklahoma City Thunder (2),Dallas Mavericks (7),Oklahoma City Thunder (2),No,2007 format
+2012,Western Conference First Round,Los Angeles Lakers (3),Denver Nuggets (6),Los Angeles Lakers (3),No,2007 format
+2012,Western Conference First Round,Los Angeles Clippers (5),Memphis Grizzlies (4),Los Angeles Clippers (5),Yes,2007 format
+2012,Eastern Conference Semifinals,Miami Heat (2),Indiana Pacers (3),Miami Heat (2),No,2007 format
+2012,Eastern Conference Semifinals,Boston Celtics (4),Philadelphia 76ers (8),Boston Celtics (4),No,2007 format
+2012,Western Conference Semifinals,San Antonio Spurs (1),Los Angeles Clippers (5),San Antonio Spurs (1),No,2007 format
+2012,Western Conference Semifinals,Oklahoma City Thunder (2),Los Angeles Lakers (3),Oklahoma City Thunder (2),No,2007 format
+2012,Western Conference Finals,Oklahoma City Thunder (2),San Antonio Spurs (1),Oklahoma City Thunder (2),Yes,2007 format
+2012,Eastern Conference Finals,Miami Heat (2),Boston Celtics (4),Miami Heat (2),No,2007 format
+2012,Finals,Miami Heat (2),Oklahoma City Thunder (2),Miami Heat (2),No,2007 format
+2011,Eastern Conference First Round,Chicago Bulls (1),Indiana Pacers (8),Chicago Bulls (1),No,2007 format
+2011,Eastern Conference First Round,Miami Heat (2),Philadelphia 76ers (7),Miami Heat (2),No,2007 format
+2011,Eastern Conference First Round,Boston Celtics (3),New York Knicks (6),Boston Celtics (3),No,2007 format
+2011,Eastern Conference First Round,Atlanta Hawks (5),Orlando Magic (4),Atlanta Hawks (5),Yes,2007 format
+2011,Western Conference First Round,Memphis Grizzlies (8),San Antonio Spurs (1),Memphis Grizzlies (8),Yes,2007 format
+2011,Western Conference First Round,Los Angeles Lakers (2),New Orleans Hornets (7),Los Angeles Lakers (2),No,2007 format
+2011,Western Conference First Round,Dallas Mavericks (3),Portland Trail Blazers (6),Dallas Mavericks (3),No,2007 format
+2011,Western Conference First Round,Oklahoma City Thunder (4),Denver Nuggets (5),Oklahoma City Thunder (4),No,2007 format
+2011,Eastern Conference Semifinals,Chicago Bulls (1),Atlanta Hawks (5),Chicago Bulls (1),No,2007 format
+2011,Eastern Conference Semifinals,Miami Heat (2),Boston Celtics (3),Miami Heat (2),No,2007 format
+2011,Western Conference Semifinals,Dallas Mavericks (3),Los Angeles Lakers (2),Dallas Mavericks (3),Yes,2007 format
+2011,Western Conference Semifinals,Oklahoma City Thunder (4),Memphis Grizzlies (8),Oklahoma City Thunder (4),No,2007 format
+2011,Eastern Conference Finals,Miami Heat (2),Chicago Bulls (1),Miami Heat (2),Yes,2007 format
+2011,Western Conference Finals,Dallas Mavericks (3),Oklahoma City Thunder (4),Dallas Mavericks (3),No,2007 format
+2011,Finals,Dallas Mavericks (3),Miami Heat (2),Dallas Mavericks (3),Yes,2007 format
+2010,Eastern Conference First Round,Cleveland Cavaliers (1),Chicago Bulls (8),Cleveland Cavaliers (1),No,2007 format
+2010,Eastern Conference First Round,Orlando Magic (2),Charlotte Bobcats (7),Orlando Magic (2),No,2007 format
+2010,Eastern Conference First Round,Atlanta Hawks (3),Milwaukee Bucks (6),Atlanta Hawks (3),No,2007 format
+2010,Eastern Conference First Round,Boston Celtics (4),Miami Heat (5),Boston Celtics (4),No,2007 format
+2010,Western Conference First Round,Los Angeles Lakers (1),Oklahoma City Thunder (8),Los Angeles Lakers (1),No,2007 format
+2010,Western Conference First Round,San Antonio Spurs (7),Dallas Mavericks (2),San Antonio Spurs (7),Yes,2007 format
+2010,Western Conference First Round,Phoenix Suns (3),Portland Trail Blazers (6),Phoenix Suns (3),No,2007 format
+2010,Western Conference First Round,Utah Jazz (5),Denver Nuggets (4),Utah Jazz (5),Yes,2007 format
+2010,Eastern Conference Semifinals,Boston Celtics (4),Cleveland Cavaliers (1),Boston Celtics (4),Yes,2007 format
+2010,Eastern Conference Semifinals,Orlando Magic (2),Atlanta Hawks (3),Orlando Magic (2),No,2007 format
+2010,Western Conference Semifinals,Los Angeles Lakers (1),Utah Jazz (5),Los Angeles Lakers (1),No,2007 format
+2010,Western Conference Semifinals,Phoenix Suns (3),San Antonio Spurs (7),Phoenix Suns (3),No,2007 format
+2010,Western Conference Finals,Los Angeles Lakers (1),Phoenix Suns (3),Los Angeles Lakers (1),No,2007 format
+2010,Eastern Conference Finals,Boston Celtics (4),Orlando Magic (2),Boston Celtics (4),Yes,2007 format
+2010,Finals,Los Angeles Lakers (1),Boston Celtics (4),Los Angeles Lakers (1),No,2007 format
+2009,Eastern Conference First Round,Cleveland Cavaliers (1),Detroit Pistons (8),Cleveland Cavaliers (1),No,2007 format
+2009,Eastern Conference First Round,Boston Celtics (2),Chicago Bulls (7),Boston Celtics (2),No,2007 format
+2009,Eastern Conference First Round,Orlando Magic (3),Philadelphia 76ers (6),Orlando Magic (3),No,2007 format
+2009,Eastern Conference First Round,Atlanta Hawks (4),Miami Heat (5),Atlanta Hawks (4),No,2007 format
+2009,Western Conference First Round,Los Angeles Lakers (1),Utah Jazz (8),Los Angeles Lakers (1),No,2007 format
+2009,Western Conference First Round,Denver Nuggets (2),New Orleans Hornets (7),Denver Nuggets (2),No,2007 format
+2009,Western Conference First Round,Dallas Mavericks (6),San Antonio Spurs (3),Dallas Mavericks (6),Yes,2007 format
+2009,Western Conference First Round,Houston Rockets (5),Portland Trail Blazers (4),Houston Rockets (5),Yes,2007 format
+2009,Western Conference Semifinals,Los Angeles Lakers (1),Houston Rockets (5),Los Angeles Lakers (1),No,2007 format
+2009,Western Conference Semifinals,Denver Nuggets (2),Dallas Mavericks (6),Denver Nuggets (2),No,2007 format
+2009,Eastern Conference Semifinals,Cleveland Cavaliers (1),Atlanta Hawks (4),Cleveland Cavaliers (1),No,2007 format
+2009,Eastern Conference Semifinals,Orlando Magic (3),Boston Celtics (2),Orlando Magic (3),Yes,2007 format
+2009,Eastern Conference Finals,Orlando Magic (3),Cleveland Cavaliers (1),Orlando Magic (3),Yes,2007 format
+2009,Western Conference Finals,Los Angeles Lakers (1),Denver Nuggets (2),Los Angeles Lakers (1),No,2007 format
+2009,Finals,Los Angeles Lakers (1),Orlando Magic (3),Los Angeles Lakers (1),No,2007 format
+2008,Eastern Conference First Round,Boston Celtics (1),Atlanta Hawks (8),Boston Celtics (1),No,2007 format
+2008,Eastern Conference First Round,Detroit Pistons (2),Philadelphia 76ers (7),Detroit Pistons (2),No,2007 format
+2008,Eastern Conference First Round,Orlando Magic (3),Toronto Raptors (6),Orlando Magic (3),No,2007 format
+2008,Eastern Conference First Round,Cleveland Cavaliers (4),Washington Wizards (5),Cleveland Cavaliers (4),No,2007 format
+2008,Western Conference First Round,Los Angeles Lakers (1),Denver Nuggets (8),Los Angeles Lakers (1),No,2007 format
+2008,Western Conference First Round,New Orleans Hornets (2),Dallas Mavericks (7),New Orleans Hornets (2),No,2007 format
+2008,Western Conference First Round,San Antonio Spurs (3),Phoenix Suns (6),San Antonio Spurs (3),No,2007 format
+2008,Western Conference First Round,Utah Jazz (4),Houston Rockets (5),Utah Jazz (4),No,2007 format
+2008,Eastern Conference Semifinals,Boston Celtics (1),Cleveland Cavaliers (4),Boston Celtics (1),No,2007 format
+2008,Eastern Conference Semifinals,Detroit Pistons (2),Orlando Magic (3),Detroit Pistons (2),No,2007 format
+2008,Western Conference Semifinals,Los Angeles Lakers (1),Utah Jazz (4),Los Angeles Lakers (1),No,2007 format
+2008,Western Conference Semifinals,San Antonio Spurs (3),New Orleans Hornets (2),San Antonio Spurs (3),Yes,2007 format
+2008,Eastern Conference Finals,Boston Celtics (1),Detroit Pistons (2),Boston Celtics (1),No,2007 format
+2008,Western Conference Finals,Los Angeles Lakers (1),San Antonio Spurs (3),Los Angeles Lakers (1),No,2007 format
+2008,Finals,Boston Celtics (1),Los Angeles Lakers (1),Boston Celtics (1),No,2007 format
+2007,Eastern Conference First Round,Chicago Bulls (5),Miami Heat (4),Chicago Bulls (5),Yes,2007 format
+2007,Eastern Conference First Round,Cleveland Cavaliers (2),Washington Wizards (7),Cleveland Cavaliers (2),No,2007 format
+2007,Eastern Conference First Round,Detroit Pistons (1),Orlando Magic (8),Detroit Pistons (1),No,2007 format
+2007,Eastern Conference First Round,New Jersey Nets (6),Toronto Raptors (3),New Jersey Nets (6),Yes,2007 format
+2007,Western Conference First Round,Golden State Warriors (8),Dallas Mavericks (1),Golden State Warriors (8),Yes,2007 format
+2007,Western Conference First Round,Phoenix Suns (2),Los Angeles Lakers (7),Phoenix Suns (2),No,2007 format
+2007,Western Conference First Round,San Antonio Spurs (3),Denver Nuggets (6),San Antonio Spurs (3),No,2007 format
+2007,Western Conference First Round,Utah Jazz (4),Houston Rockets (5),Utah Jazz (4),No,2007 format
+2007,Eastern Conference Semifinals,Cleveland Cavaliers (2),New Jersey Nets (6),Cleveland Cavaliers (2),No,2007 format
+2007,Eastern Conference Semifinals,Detroit Pistons (1),Chicago Bulls (5),Detroit Pistons (1),No,2007 format
+2007,Western Conference Semifinals,San Antonio Spurs (3),Phoenix Suns (2),San Antonio Spurs (3),Yes,2007 format
+2007,Western Conference Semifinals,Utah Jazz (4),Golden State Warriors (8),Utah Jazz (4),No,2007 format
+2007,Eastern Conference Finals,Cleveland Cavaliers (2),Detroit Pistons (1),Cleveland Cavaliers (2),Yes,2007 format
+2007,Western Conference Finals,San Antonio Spurs (3),Utah Jazz (4),San Antonio Spurs (3),No,2007 format
+2007,Finals,San Antonio Spurs (3),Cleveland Cavaliers (2),San Antonio Spurs (3),Yes,2007 format
+2006,Eastern Conference First Round,Cleveland Cavaliers (4),Washington Wizards (5),Cleveland Cavaliers (4),No,2005 format
+2006,Eastern Conference First Round,Detroit Pistons (1),Milwaukee Bucks (8),Detroit Pistons (1),No,2005 format
+2006,Eastern Conference First Round,Miami Heat (2),Chicago Bulls (7),Miami Heat (2),No,2005 format
+2006,Eastern Conference First Round,New Jersey Nets (3),Indiana Pacers (6),New Jersey Nets (3),No,2005 format
+2006,Western Conference First Round,Dallas Mavericks (4),Memphis Grizzlies (5),Dallas Mavericks (4),No,2005 format
+2006,Western Conference First Round,Los Angeles Clippers (6),Denver Nuggets (3),Los Angeles Clippers (6),Yes,2005 format
+2006,Western Conference First Round,Phoenix Suns (2),Los Angeles Lakers (7),Phoenix Suns (2),No,2005 format
+2006,Western Conference First Round,San Antonio Spurs (1),Sacramento Kings (8),San Antonio Spurs (1),No,2005 format
+2006,Eastern Conference Semifinals,Detroit Pistons (1),Cleveland Cavaliers (4),Detroit Pistons (1),No,2005 format
+2006,Eastern Conference Semifinals,Miami Heat (2),New Jersey Nets (3),Miami Heat (2),No,2005 format
+2006,Western Conference Semifinals,Dallas Mavericks (4),San Antonio Spurs (1),Dallas Mavericks (4),Yes,2005 format
+2006,Western Conference Semifinals,Phoenix Suns (2),Los Angeles Clippers (6),Phoenix Suns (2),No,2005 format
+2006,Eastern Conference Finals,Miami Heat (2),Detroit Pistons (1),Miami Heat (2),Yes,2005 format
+2006,Western Conference Finals,Dallas Mavericks (4),Phoenix Suns (2),Dallas Mavericks (4),Yes,2005 format
+2006,Finals,Miami Heat (2),Dallas Mavericks (4),Miami Heat (2),No,2005 format
+2005,Eastern Conference First Round,Detroit Pistons (2),Philadelphia 76ers (7),Detroit Pistons (2),No,2005 format
+2005,Eastern Conference First Round,Indiana Pacers (6),Boston Celtics (3),Indiana Pacers (6),Yes,2005 format
+2005,Eastern Conference First Round,Miami Heat (1),New Jersey Nets (8),Miami Heat (1),No,2005 format
+2005,Eastern Conference First Round,Washington Wizards (5),Chicago Bulls (4),Washington Wizards (5),Yes,2005 format
+2005,Western Conference First Round,Dallas Mavericks (4),Houston Rockets (5),Dallas Mavericks (4),No,2005 format
+2005,Western Conference First Round,Phoenix Suns (1),Memphis Grizzlies (8),Phoenix Suns (1),No,2005 format
+2005,Western Conference First Round,San Antonio Spurs (2),Denver Nuggets (7),San Antonio Spurs (2),No,2005 format
+2005,Western Conference First Round,Seattle SuperSonics (3),Sacramento Kings (6),Seattle SuperSonics (3),No,2005 format
+2005,Eastern Conference Semifinals,Detroit Pistons (2),Indiana Pacers (6),Detroit Pistons (2),No,2005 format
+2005,Eastern Conference Semifinals,Miami Heat (1),Washington Wizards (5),Miami Heat (1),No,2005 format
+2005,Western Conference Semifinals,Phoenix Suns (1),Dallas Mavericks (4),Phoenix Suns (1),No,2005 format
+2005,Western Conference Semifinals,San Antonio Spurs (2),Seattle SuperSonics (3),San Antonio Spurs (2),No,2005 format
+2005,Eastern Conference Finals,Detroit Pistons (2),Miami Heat (1),Detroit Pistons (2),Yes,2005 format
+2005,Western Conference Finals,San Antonio Spurs (2),Phoenix Suns (1),San Antonio Spurs (2),Yes,2005 format
+2005,Finals,San Antonio Spurs (2),Detroit Pistons (2),San Antonio Spurs (2),No,2005 format
+2004,Eastern Conference First Round,Detroit Pistons (3),Milwaukee Bucks (6),Detroit Pistons (3),No,2003 format
+2004,Eastern Conference First Round,Indiana Pacers (1),Boston Celtics (8),Indiana Pacers (1),No,2003 format
+2004,Eastern Conference First Round,Miami Heat (4),New Orleans Hornets (5),Miami Heat (4),No,2003 format
+2004,Eastern Conference First Round,New Jersey Nets (2),New York Knicks (7),New Jersey Nets (2),No,2003 format
+2004,Western Conference First Round,Los Angeles Lakers (2),Houston Rockets (7),Los Angeles Lakers (2),No,2003 format
+2004,Western Conference First Round,Minnesota Timberwolves (1),Denver Nuggets (8),Minnesota Timberwolves (1),No,2003 format
+2004,Western Conference First Round,Sacramento Kings (4),Dallas Mavericks (5),Sacramento Kings (4),No,2003 format
+2004,Western Conference First Round,San Antonio Spurs (3),Memphis Grizzlies (6),San Antonio Spurs (3),No,2003 format
+2004,Eastern Conference Semifinals,Detroit Pistons (3),New Jersey Nets (2),Detroit Pistons (3),Yes,2003 format
+2004,Eastern Conference Semifinals,Indiana Pacers (1),Miami Heat (4),Indiana Pacers (1),No,2003 format
+2004,Western Conference Semifinals,Los Angeles Lakers (2),San Antonio Spurs (3),Los Angeles Lakers (2),No,2003 format
+2004,Western Conference Semifinals,Minnesota Timberwolves (1),Sacramento Kings (4),Minnesota Timberwolves (1),No,2003 format
+2004,Eastern Conference Finals,Detroit Pistons (3),Indiana Pacers (1),Detroit Pistons (3),Yes,2003 format
+2004,Western Conference Finals,Los Angeles Lakers (2),Minnesota Timberwolves (1),Los Angeles Lakers (2),Yes,2003 format
+2004,Finals,Detroit Pistons (3),Los Angeles Lakers (2),Detroit Pistons (3),Yes,2003 format
+2003,Eastern Conference First Round,Boston Celtics (6),Indiana Pacers (3),Boston Celtics (6),Yes,2003 format
+2003,Eastern Conference First Round,Detroit Pistons (1),Orlando Magic (8),Detroit Pistons (1),No,2003 format
+2003,Eastern Conference First Round,New Jersey Nets (2),Milwaukee Bucks (7),New Jersey Nets (2),No,2003 format
+2003,Eastern Conference First Round,Philadelphia 76ers (4),New Orleans Hornets (5),Philadelphia 76ers (4),No,2003 format
+2003,Western Conference First Round,Dallas Mavericks (3),Portland Trail Blazers (6),Dallas Mavericks (3),No,2003 format
+2003,Western Conference First Round,Los Angeles Lakers (5),Minnesota Timberwolves (4),Los Angeles Lakers (5),Yes,2003 format
+2003,Western Conference First Round,Sacramento Kings (2),Utah Jazz (7),Sacramento Kings (2),No,2003 format
+2003,Western Conference First Round,San Antonio Spurs (1),Phoenix Suns (8),San Antonio Spurs (1),No,2003 format
+2003,Eastern Conference Semifinals,Detroit Pistons (1),Philadelphia 76ers (4),Detroit Pistons (1),No,2003 format
+2003,Eastern Conference Semifinals,New Jersey Nets (2),Boston Celtics (6),New Jersey Nets (2),No,2003 format
+2003,Western Conference Semifinals,Dallas Mavericks (3),Sacramento Kings (2),Dallas Mavericks (3),Yes,2003 format
+2003,Western Conference Semifinals,San Antonio Spurs (1),Los Angeles Lakers (5),San Antonio Spurs (1),No,2003 format
+2003,Eastern Conference Finals,New Jersey Nets (2),Detroit Pistons (1),New Jersey Nets (2),Yes,2003 format
+2003,Western Conference Finals,San Antonio Spurs (1),Dallas Mavericks (3),San Antonio Spurs (1),No,2003 format
+2003,Finals,San Antonio Spurs (1),New Jersey Nets (2),San Antonio Spurs (1),No,2003 format
+2002,Eastern Conference First Round,Boston Celtics (3),Philadelphia 76ers (6),Boston Celtics (3),No,1984 format
+2002,Eastern Conference First Round,Charlotte Hornets (4),Orlando Magic (5),Charlotte Hornets (4),No,1984 format
+2002,Eastern Conference First Round,Detroit Pistons (2),Toronto Raptors (7),Detroit Pistons (2),No,1984 format
+2002,Eastern Conference First Round,New Jersey Nets (1),Indiana Pacers (8),New Jersey Nets (1),No,1984 format
+2002,Western Conference First Round,Dallas Mavericks (4),Minnesota Timberwolves (5),Dallas Mavericks (4),No,1984 format
+2002,Western Conference First Round,Los Angeles Lakers (3),Portland Trail Blazers (6),Los Angeles Lakers (3),No,1984 format
+2002,Western Conference First Round,Sacramento Kings (1),Utah Jazz (8),Sacramento Kings (1),No,1984 format
+2002,Western Conference First Round,San Antonio Spurs (2),Seattle SuperSonics (7),San Antonio Spurs (2),No,1984 format
+2002,Eastern Conference Semifinals,Boston Celtics (3),Detroit Pistons (2),Boston Celtics (3),Yes,1984 format
+2002,Eastern Conference Semifinals,New Jersey Nets (1),Charlotte Hornets (4),New Jersey Nets (1),No,1984 format
+2002,Western Conference Semifinals,Los Angeles Lakers (3),San Antonio Spurs (2),Los Angeles Lakers (3),Yes,1984 format
+2002,Western Conference Semifinals,Sacramento Kings (1),Dallas Mavericks (4),Sacramento Kings (1),No,1984 format
+2002,Eastern Conference Finals,New Jersey Nets (1),Boston Celtics (3),New Jersey Nets (1),No,1984 format
+2002,Western Conference Finals,Los Angeles Lakers (3),Sacramento Kings (1),Los Angeles Lakers (3),Yes,1984 format
+2002,Finals,Los Angeles Lakers (3),New Jersey Nets (1),Los Angeles Lakers (3),Yes,1984 format
+2001,Eastern Conference First Round,Charlotte Hornets (6),Miami Heat (3),Charlotte Hornets (6),Yes,1984 format
+2001,Eastern Conference First Round,Milwaukee Bucks (2),Orlando Magic (7),Milwaukee Bucks (2),No,1984 format
+2001,Eastern Conference First Round,Philadelphia 76ers (1),Indiana Pacers (8),Philadelphia 76ers (1),No,1984 format
+2001,Eastern Conference First Round,Toronto Raptors (5),New York Knicks (4),Toronto Raptors (5),Yes,1984 format
+2001,Western Conference First Round,Dallas Mavericks (5),Utah Jazz (4),Dallas Mavericks (5),Yes,1984 format
+2001,Western Conference First Round,Los Angeles Lakers (2),Portland Trail Blazers (7),Los Angeles Lakers (2),No,1984 format
+2001,Western Conference First Round,Sacramento Kings (3),Phoenix Suns (6),Sacramento Kings (3),No,1984 format
+2001,Western Conference First Round,San Antonio Spurs (1),Minnesota Timberwolves (8),San Antonio Spurs (1),No,1984 format
+2001,Eastern Conference Semifinals,Milwaukee Bucks (2),Charlotte Hornets (6),Milwaukee Bucks (2),No,1984 format
+2001,Eastern Conference Semifinals,Philadelphia 76ers (1),Toronto Raptors (5),Philadelphia 76ers (1),No,1984 format
+2001,Western Conference Semifinals,Los Angeles Lakers (2),Sacramento Kings (3),Los Angeles Lakers (2),No,1984 format
+2001,Western Conference Semifinals,San Antonio Spurs (1),Dallas Mavericks (5),San Antonio Spurs (1),No,1984 format
+2001,Eastern Conference Finals,Philadelphia 76ers (1),Milwaukee Bucks (2),Philadelphia 76ers (1),No,1984 format
+2001,Western Conference Finals,Los Angeles Lakers (2),San Antonio Spurs (1),Los Angeles Lakers (2),Yes,1984 format
+2001,Finals,Los Angeles Lakers (2),Philadelphia 76ers (1),Los Angeles Lakers (2),Yes,1984 format
+2000,Eastern Conference First Round,Indiana Pacers (1),Milwaukee Bucks (8),Indiana Pacers (1),No,1984 format
+2000,Eastern Conference First Round,Miami Heat (2),Detroit Pistons (7),Miami Heat (2),No,1984 format
+2000,Eastern Conference First Round,New York Knicks (3),Toronto Raptors (6),New York Knicks (3),No,1984 format
+2000,Eastern Conference First Round,Philadelphia 76ers (5),Charlotte Hornets (4),Philadelphia 76ers (5),Yes,1984 format
+2000,Western Conference First Round,Los Angeles Lakers (1),Sacramento Kings (8),Los Angeles Lakers (1),No,1984 format
+2000,Western Conference First Round,Phoenix Suns (5),San Antonio Spurs (4),Phoenix Suns (5),Yes,1984 format
+2000,Western Conference First Round,Portland Trail Blazers (3),Minnesota Timberwolves (6),Portland Trail Blazers (3),No,1984 format
+2000,Western Conference First Round,Utah Jazz (2),Seattle SuperSonics (7),Utah Jazz (2),No,1984 format
+2000,Eastern Conference Semifinals,Indiana Pacers (1),Philadelphia 76ers (5),Indiana Pacers (1),No,1984 format
+2000,Eastern Conference Semifinals,New York Knicks (3),Miami Heat (2),New York Knicks (3),Yes,1984 format
+2000,Western Conference Semifinals,Los Angeles Lakers (1),Phoenix Suns (5),Los Angeles Lakers (1),No,1984 format
+2000,Western Conference Semifinals,Portland Trail Blazers (3),Utah Jazz (2),Portland Trail Blazers (3),Yes,1984 format
+2000,Eastern Conference Finals,Indiana Pacers (1),New York Knicks (3),Indiana Pacers (1),No,1984 format
+2000,Western Conference Finals,Los Angeles Lakers (1),Portland Trail Blazers (3),Los Angeles Lakers (1),No,1984 format
+2000,Finals,Los Angeles Lakers (1),Indiana Pacers (1),Los Angeles Lakers (1),No,1984 format
+1999,Eastern Conference First Round,Atlanta Hawks (4),Detroit Pistons (5),Atlanta Hawks (4),No,1984 format
+1999,Eastern Conference First Round,Indiana Pacers (2),Milwaukee Bucks (7),Indiana Pacers (2),No,1984 format
+1999,Eastern Conference First Round,New York Knicks (8),Miami Heat (1),New York Knicks (8),Yes,1984 format
+1999,Eastern Conference First Round,Philadelphia 76ers (6),Orlando Magic (3),Philadelphia 76ers (6),Yes,1984 format
+1999,Western Conference First Round,Los Angeles Lakers (4),Houston Rockets (5),Los Angeles Lakers (4),No,1984 format
+1999,Western Conference First Round,Portland Trail Blazers (2),Phoenix Suns (7),Portland Trail Blazers (2),No,1984 format
+1999,Western Conference First Round,San Antonio Spurs (1),Minnesota Timberwolves (8),San Antonio Spurs (1),No,1984 format
+1999,Western Conference First Round,Utah Jazz (3),Sacramento Kings (6),Utah Jazz (3),No,1984 format
+1999,Eastern Conference Semifinals,Indiana Pacers (2),Philadelphia 76ers (6),Indiana Pacers (2),No,1984 format
+1999,Eastern Conference Semifinals,New York Knicks (8),Atlanta Hawks (4),New York Knicks (8),Yes,1984 format
+1999,Western Conference Semifinals,Portland Trail Blazers (2),Utah Jazz (3),Portland Trail Blazers (2),No,1984 format
+1999,Western Conference Semifinals,San Antonio Spurs (1),Los Angeles Lakers (4),San Antonio Spurs (1),No,1984 format
+1999,Eastern Conference Finals,New York Knicks (8),Indiana Pacers (2),New York Knicks (8),Yes,1984 format
+1999,Western Conference Finals,San Antonio Spurs (1),Portland Trail Blazers (2),San Antonio Spurs (1),No,1984 format
+1999,Finals,San Antonio Spurs (1),New York Knicks (8),San Antonio Spurs (1),No,1984 format
+1998,Eastern Conference First Round,Charlotte Hornets (4),Atlanta Hawks (5),Charlotte Hornets (4),No,1984 format
+1998,Eastern Conference First Round,Chicago Bulls (1),New Jersey Nets (8),Chicago Bulls (1),No,1984 format
+1998,Eastern Conference First Round,Indiana Pacers (3),Cleveland Cavaliers (6),Indiana Pacers (3),No,1984 format
+1998,Eastern Conference First Round,New York Knicks (7),Miami Heat (2),New York Knicks (7),Yes,1984 format
+1998,Western Conference First Round,Los Angeles Lakers (3),Portland Trail Blazers (6),Los Angeles Lakers (3),No,1984 format
+1998,Western Conference First Round,San Antonio Spurs (5),Phoenix Suns (4),San Antonio Spurs (5),Yes,1984 format
+1998,Western Conference First Round,Seattle SuperSonics (2),Minnesota Timberwolves (7),Seattle SuperSonics (2),No,1984 format
+1998,Western Conference First Round,Utah Jazz (1),Houston Rockets (8),Utah Jazz (1),No,1984 format
+1998,Eastern Conference Semifinals,Chicago Bulls (1),Charlotte Hornets (4),Chicago Bulls (1),No,1984 format
+1998,Eastern Conference Semifinals,Indiana Pacers (3),New York Knicks (7),Indiana Pacers (3),No,1984 format
+1998,Western Conference Semifinals,Los Angeles Lakers (3),Seattle SuperSonics (2),Los Angeles Lakers (3),Yes,1984 format
+1998,Western Conference Semifinals,Utah Jazz (1),San Antonio Spurs (5),Utah Jazz (1),No,1984 format
+1998,Eastern Conference Finals,Chicago Bulls (1),Indiana Pacers (3),Chicago Bulls (1),No,1984 format
+1998,Western Conference Finals,Utah Jazz (1),Los Angeles Lakers (3),Utah Jazz (1),No,1984 format
+1998,Finals,Chicago Bulls (1),Utah Jazz (1),Chicago Bulls (1),No,1984 format
+1997,Eastern Conference First Round,Atlanta Hawks (4),Detroit Pistons (5),Atlanta Hawks (4),No,1984 format
+1997,Eastern Conference First Round,Chicago Bulls (1),Washington Bullets (8),Chicago Bulls (1),No,1984 format
+1997,Eastern Conference First Round,Miami Heat (2),Orlando Magic (7),Miami Heat (2),No,1984 format
+1997,Eastern Conference First Round,New York Knicks (3),Charlotte Hornets (6),New York Knicks (3),No,1984 format
+1997,Western Conference First Round,Houston Rockets (3),Minnesota Timberwolves (6),Houston Rockets (3),No,1984 format
+1997,Western Conference First Round,Los Angeles Lakers (4),Portland Trail Blazers (5),Los Angeles Lakers (4),No,1984 format
+1997,Western Conference First Round,Seattle SuperSonics (2),Phoenix Suns (7),Seattle SuperSonics (2),No,1984 format
+1997,Western Conference First Round,Utah Jazz (1),Los Angeles Clippers (8),Utah Jazz (1),No,1984 format
+1997,Eastern Conference Semifinals,Chicago Bulls (1),Atlanta Hawks (4),Chicago Bulls (1),No,1984 format
+1997,Eastern Conference Semifinals,Miami Heat (2),New York Knicks (3),Miami Heat (2),No,1984 format
+1997,Western Conference Semifinals,Houston Rockets (3),Seattle SuperSonics (2),Houston Rockets (3),Yes,1984 format
+1997,Western Conference Semifinals,Utah Jazz (1),Los Angeles Lakers (4),Utah Jazz (1),No,1984 format
+1997,Eastern Conference Finals,Chicago Bulls (1),Miami Heat (2),Chicago Bulls (1),No,1984 format
+1997,Western Conference Finals,Utah Jazz (1),Houston Rockets (3),Utah Jazz (1),No,1984 format
+1997,Finals,Chicago Bulls (1),Utah Jazz (1),Chicago Bulls (1),No,1984 format
+1996,Eastern Conference First Round,Atlanta Hawks (6),Indiana Pacers (3),Atlanta Hawks (6),Yes,1984 format
+1996,Eastern Conference First Round,Chicago Bulls (1),Miami Heat (8),Chicago Bulls (1),No,1984 format
+1996,Eastern Conference First Round,New York Knicks (5),Cleveland Cavaliers (4),New York Knicks (5),Yes,1984 format
+1996,Eastern Conference First Round,Orlando Magic (2),Detroit Pistons (7),Orlando Magic (2),No,1984 format
+1996,Western Conference First Round,Houston Rockets (5),Los Angeles Lakers (4),Houston Rockets (5),Yes,1984 format
+1996,Western Conference First Round,San Antonio Spurs (2),Phoenix Suns (7),San Antonio Spurs (2),No,1984 format
+1996,Western Conference First Round,Seattle SuperSonics (1),Sacramento Kings (8),Seattle SuperSonics (1),No,1984 format
+1996,Western Conference First Round,Utah Jazz (3),Portland Trail Blazers (6),Utah Jazz (3),No,1984 format
+1996,Eastern Conference Semifinals,Chicago Bulls (1),New York Knicks (5),Chicago Bulls (1),No,1984 format
+1996,Eastern Conference Semifinals,Orlando Magic (2),Atlanta Hawks (6),Orlando Magic (2),No,1984 format
+1996,Western Conference Semifinals,Seattle SuperSonics (1),Houston Rockets (5),Seattle SuperSonics (1),No,1984 format
+1996,Western Conference Semifinals,Utah Jazz (3),San Antonio Spurs (2),Utah Jazz (3),Yes,1984 format
+1996,Eastern Conference Finals,Chicago Bulls (1),Orlando Magic (2),Chicago Bulls (1),No,1984 format
+1996,Western Conference Finals,Seattle SuperSonics (1),Utah Jazz (3),Seattle SuperSonics (1),No,1984 format
+1996,Finals,Chicago Bulls (1),Seattle SuperSonics (1),Chicago Bulls (1),No,1984 format
+1995,Eastern Conference First Round,Chicago Bulls (5),Charlotte Hornets (4),Chicago Bulls (5),Yes,1984 format
+1995,Eastern Conference First Round,Indiana Pacers (2),Atlanta Hawks (7),Indiana Pacers (2),No,1984 format
+1995,Eastern Conference First Round,New York Knicks (3),Cleveland Cavaliers (6),New York Knicks (3),No,1984 format
+1995,Eastern Conference First Round,Orlando Magic (1),Boston Celtics (8),Orlando Magic (1),No,1984 format
+1995,Western Conference First Round,Houston Rockets (6),Utah Jazz (3),Houston Rockets (6),Yes,1984 format
+1995,Western Conference First Round,Los Angeles Lakers (5),Seattle SuperSonics (4),Los Angeles Lakers (5),Yes,1984 format
+1995,Western Conference First Round,Phoenix Suns (2),Portland Trail Blazers (7),Phoenix Suns (2),No,1984 format
+1995,Western Conference First Round,San Antonio Spurs (1),Denver Nuggets (8),San Antonio Spurs (1),No,1984 format
+1995,Eastern Conference Semifinals,Indiana Pacers (2),New York Knicks (3),Indiana Pacers (2),No,1984 format
+1995,Eastern Conference Semifinals,Orlando Magic (1),Chicago Bulls (5),Orlando Magic (1),No,1984 format
+1995,Western Conference Semifinals,Houston Rockets (6),Phoenix Suns (2),Houston Rockets (6),Yes,1984 format
+1995,Western Conference Semifinals,San Antonio Spurs (1),Los Angeles Lakers (5),San Antonio Spurs (1),No,1984 format
+1995,Eastern Conference Finals,Orlando Magic (1),Indiana Pacers (2),Orlando Magic (1),No,1984 format
+1995,Western Conference Finals,Houston Rockets (6),San Antonio Spurs (1),Houston Rockets (6),Yes,1984 format
+1995,Finals,Houston Rockets (6),Orlando Magic (1),Houston Rockets (6),Yes,1984 format
+1994,Eastern Conference First Round,Atlanta Hawks (1),Miami Heat (8),Atlanta Hawks (1),No,1984 format
+1994,Eastern Conference First Round,Chicago Bulls (3),Cleveland Cavaliers (6),Chicago Bulls (3),No,1984 format
+1994,Eastern Conference First Round,Indiana Pacers (5),Orlando Magic (4),Indiana Pacers (5),Yes,1984 format
+1994,Eastern Conference First Round,New York Knicks (2),New Jersey Nets (7),New York Knicks (2),No,1984 format
+1994,Western Conference First Round,Denver Nuggets (8),Seattle SuperSonics (1),Denver Nuggets (8),Yes,1984 format
+1994,Western Conference First Round,Houston Rockets (2),Portland Trail Blazers (7),Houston Rockets (2),No,1984 format
+1994,Western Conference First Round,Phoenix Suns (3),Golden State Warriors (6),Phoenix Suns (3),No,1984 format
+1994,Western Conference First Round,Utah Jazz (5),San Antonio Spurs (4),Utah Jazz (5),Yes,1984 format
+1994,Eastern Conference Semifinals,Indiana Pacers (5),Atlanta Hawks (1),Indiana Pacers (5),Yes,1984 format
+1994,Eastern Conference Semifinals,New York Knicks (2),Chicago Bulls (3),New York Knicks (2),No,1984 format
+1994,Western Conference Semifinals,Houston Rockets (2),Phoenix Suns (3),Houston Rockets (2),No,1984 format
+1994,Western Conference Semifinals,Utah Jazz (5),Denver Nuggets (8),Utah Jazz (5),No,1984 format
+1994,Eastern Conference Finals,New York Knicks (2),Indiana Pacers (5),New York Knicks (2),No,1984 format
+1994,Western Conference Finals,Houston Rockets (2),Utah Jazz (5),Houston Rockets (2),No,1984 format
+1994,Finals,Houston Rockets (2),New York Knicks (2),Houston Rockets (2),No,1984 format
+1993,Eastern Conference First Round,Charlotte Hornets (5),Boston Celtics (4),Charlotte Hornets (5),Yes,1984 format
+1993,Eastern Conference First Round,Chicago Bulls (2),Atlanta Hawks (7),Chicago Bulls (2),No,1984 format
+1993,Eastern Conference First Round,Cleveland Cavaliers (3),New Jersey Nets (6),Cleveland Cavaliers (3),No,1984 format
+1993,Eastern Conference First Round,New York Knicks (1),Indiana Pacers (8),New York Knicks (1),No,1984 format
+1993,Western Conference First Round,Houston Rockets (2),Los Angeles Clippers (7),Houston Rockets (2),No,1984 format
+1993,Western Conference First Round,Phoenix Suns (1),Los Angeles Lakers (8),Phoenix Suns (1),No,1984 format
+1993,Western Conference First Round,San Antonio Spurs (5),Portland Trail Blazers (4),San Antonio Spurs (5),Yes,1984 format
+1993,Western Conference First Round,Seattle SuperSonics (3),Utah Jazz (6),Seattle SuperSonics (3),No,1984 format
+1993,Eastern Conference Semifinals,Chicago Bulls (2),Cleveland Cavaliers (3),Chicago Bulls (2),No,1984 format
+1993,Eastern Conference Semifinals,New York Knicks (1),Charlotte Hornets (5),New York Knicks (1),No,1984 format
+1993,Western Conference Semifinals,Phoenix Suns (1),San Antonio Spurs (5),Phoenix Suns (1),No,1984 format
+1993,Western Conference Semifinals,Seattle SuperSonics (3),Houston Rockets (2),Seattle SuperSonics (3),Yes,1984 format
+1993,Eastern Conference Finals,Chicago Bulls (2),New York Knicks (1),Chicago Bulls (2),Yes,1984 format
+1993,Western Conference Finals,Phoenix Suns (1),Seattle SuperSonics (3),Phoenix Suns (1),No,1984 format
+1993,Finals,Chicago Bulls (2),Phoenix Suns (1),Chicago Bulls (2),Yes,1984 format
+1992,Eastern Conference First Round,Boston Celtics (2),Indiana Pacers (7),Boston Celtics (2),No,1984 format
+1992,Eastern Conference First Round,Chicago Bulls (1),Miami Heat (8),Chicago Bulls (1),No,1984 format
+1992,Eastern Conference First Round,Cleveland Cavaliers (3),New Jersey Nets (6),Cleveland Cavaliers (3),No,1984 format
+1992,Eastern Conference First Round,New York Knicks (4),Detroit Pistons (5),New York Knicks (4),No,1984 format
+1992,Western Conference First Round,Phoenix Suns (4),San Antonio Spurs (5),Phoenix Suns (4),No,1984 format
+1992,Western Conference First Round,Portland Trail Blazers (1),Los Angeles Lakers (8),Portland Trail Blazers (1),No,1984 format
+1992,Western Conference First Round,Seattle SuperSonics (6),Golden State Warriors (3),Seattle SuperSonics (6),Yes,1984 format
+1992,Western Conference First Round,Utah Jazz (2),Los Angeles Clippers (7),Utah Jazz (2),No,1984 format
+1992,Eastern Conference Semifinals,Chicago Bulls (1),New York Knicks (4),Chicago Bulls (1),No,1984 format
+1992,Eastern Conference Semifinals,Cleveland Cavaliers (3),Boston Celtics (2),Cleveland Cavaliers (3),Yes,1984 format
+1992,Western Conference Semifinals,Portland Trail Blazers (1),Phoenix Suns (4),Portland Trail Blazers (1),No,1984 format
+1992,Western Conference Semifinals,Utah Jazz (2),Seattle SuperSonics (6),Utah Jazz (2),No,1984 format
+1992,Eastern Conference Finals,Chicago Bulls (1),Cleveland Cavaliers (3),Chicago Bulls (1),No,1984 format
+1992,Western Conference Finals,Portland Trail Blazers (1),Utah Jazz (2),Portland Trail Blazers (1),No,1984 format
+1992,Finals,Chicago Bulls (1),Portland Trail Blazers (1),Chicago Bulls (1),No,1984 format
+1991,Eastern Conference First Round,Boston Celtics (2),Indiana Pacers (7),Boston Celtics (2),No,1984 format
+1991,Eastern Conference First Round,Chicago Bulls (1),New York Knicks (8),Chicago Bulls (1),No,1984 format
+1991,Eastern Conference First Round,Detroit Pistons (3),Atlanta Hawks (6),Detroit Pistons (3),No,1984 format
+1991,Eastern Conference First Round,Philadelphia 76ers (5),Milwaukee Bucks (4),Philadelphia 76ers (5),Yes,1984 format
+1991,Western Conference First Round,Golden State Warriors (7),San Antonio Spurs (2),Golden State Warriors (7),Yes,1984 format
+1991,Western Conference First Round,Los Angeles Lakers (3),Houston Rockets (6),Los Angeles Lakers (3),No,1984 format
+1991,Western Conference First Round,Portland Trail Blazers (1),Seattle SuperSonics (8),Portland Trail Blazers (1),No,1984 format
+1991,Western Conference First Round,Utah Jazz (5),Phoenix Suns (4),Utah Jazz (5),Yes,1984 format
+1991,Eastern Conference Semifinals,Chicago Bulls (1),Philadelphia 76ers (5),Chicago Bulls (1),No,1984 format
+1991,Eastern Conference Semifinals,Detroit Pistons (3),Boston Celtics (2),Detroit Pistons (3),Yes,1984 format
+1991,Western Conference Semifinals,Los Angeles Lakers (3),Golden State Warriors (7),Los Angeles Lakers (3),No,1984 format
+1991,Western Conference Semifinals,Portland Trail Blazers (1),Utah Jazz (5),Portland Trail Blazers (1),No,1984 format
+1991,Eastern Conference Finals,Chicago Bulls (1),Detroit Pistons (3),Chicago Bulls (1),No,1984 format
+1991,Western Conference Finals,Los Angeles Lakers (3),Portland Trail Blazers (1),Los Angeles Lakers (3),Yes,1984 format
+1991,Finals,Chicago Bulls (1),Los Angeles Lakers (3),Chicago Bulls (1),No,1984 format
+1990,Eastern Conference First Round,Chicago Bulls (3),Milwaukee Bucks (6),Chicago Bulls (3),No,1984 format
+1990,Eastern Conference First Round,Detroit Pistons (1),Indiana Pacers (8),Detroit Pistons (1),No,1984 format
+1990,Eastern Conference First Round,New York Knicks (5),Boston Celtics (4),New York Knicks (5),Yes,1984 format
+1990,Eastern Conference First Round,Philadelphia 76ers (2),Cleveland Cavaliers (7),Philadelphia 76ers (2),No,1984 format
+1990,Western Conference First Round,Los Angeles Lakers (1),Houston Rockets (8),Los Angeles Lakers (1),No,1984 format
+1990,Western Conference First Round,Phoenix Suns (5),Utah Jazz (4),Phoenix Suns (5),Yes,1984 format
+1990,Western Conference First Round,Portland Trail Blazers (3),Dallas Mavericks (6),Portland Trail Blazers (3),No,1984 format
+1990,Western Conference First Round,San Antonio Spurs (2),Denver Nuggets (7),San Antonio Spurs (2),No,1984 format
+1990,Eastern Conference Semifinals,Chicago Bulls (3),Philadelphia 76ers (2),Chicago Bulls (3),Yes,1984 format
+1990,Eastern Conference Semifinals,Detroit Pistons (1),New York Knicks (5),Detroit Pistons (1),No,1984 format
+1990,Western Conference Semifinals,Phoenix Suns (5),Los Angeles Lakers (1),Phoenix Suns (5),Yes,1984 format
+1990,Western Conference Semifinals,Portland Trail Blazers (3),San Antonio Spurs (2),Portland Trail Blazers (3),Yes,1984 format
+1990,Eastern Conference Finals,Detroit Pistons (1),Chicago Bulls (3),Detroit Pistons (1),No,1984 format
+1990,Western Conference Finals,Portland Trail Blazers (3),Phoenix Suns (5),Portland Trail Blazers (3),No,1984 format
+1990,Finals,Detroit Pistons (1),Portland Trail Blazers (3),Detroit Pistons (1),No,1984 format
+1989,Eastern Conference First Round,Chicago Bulls (6),Cleveland Cavaliers (3),Chicago Bulls (6),Yes,1984 format
+1989,Eastern Conference First Round,Detroit Pistons (1),Boston Celtics (8),Detroit Pistons (1),No,1984 format
+1989,Eastern Conference First Round,Milwaukee Bucks (5),Atlanta Hawks (4),Milwaukee Bucks (5),Yes,1984 format
+1989,Eastern Conference First Round,New York Knicks (2),Philadelphia 76ers (7),New York Knicks (2),No,1984 format
+1989,Western Conference First Round,Golden State Warriors (7),Utah Jazz (2),Golden State Warriors (7),Yes,1984 format
+1989,Western Conference First Round,Los Angeles Lakers (1),Portland Trail Blazers (8),Los Angeles Lakers (1),No,1984 format
+1989,Western Conference First Round,Phoenix Suns (3),Denver Nuggets (6),Phoenix Suns (3),No,1984 format
+1989,Western Conference First Round,Seattle SuperSonics (4),Houston Rockets (5),Seattle SuperSonics (4),No,1984 format
+1989,Eastern Conference Semifinals,Chicago Bulls (6),New York Knicks (2),Chicago Bulls (6),Yes,1984 format
+1989,Eastern Conference Semifinals,Detroit Pistons (1),Milwaukee Bucks (5),Detroit Pistons (1),No,1984 format
+1989,Western Conference Semifinals,Los Angeles Lakers (1),Seattle SuperSonics (4),Los Angeles Lakers (1),No,1984 format
+1989,Western Conference Semifinals,Phoenix Suns (3),Golden State Warriors (7),Phoenix Suns (3),No,1984 format
+1989,Eastern Conference Finals,Detroit Pistons (1),Chicago Bulls (6),Detroit Pistons (1),No,1984 format
+1989,Western Conference Finals,Los Angeles Lakers (1),Phoenix Suns (3),Los Angeles Lakers (1),No,1984 format
+1989,Finals,Detroit Pistons (1),Los Angeles Lakers (1),Detroit Pistons (1),No,1984 format
+1988,Eastern Conference First Round,Atlanta Hawks (4),Milwaukee Bucks (5),Atlanta Hawks (4),No,1984 format
+1988,Eastern Conference First Round,Boston Celtics (1),New York Knicks (8),Boston Celtics (1),No,1984 format
+1988,Eastern Conference First Round,Chicago Bulls (3),Cleveland Cavaliers (6),Chicago Bulls (3),No,1984 format
+1988,Eastern Conference First Round,Detroit Pistons (2),Washington Bullets (7),Detroit Pistons (2),No,1984 format
+1988,Western Conference First Round,Dallas Mavericks (3),Houston Rockets (6),Dallas Mavericks (3),No,1984 format
+1988,Western Conference First Round,Denver Nuggets (2),Seattle SuperSonics (7),Denver Nuggets (2),No,1984 format
+1988,Western Conference First Round,Los Angeles Lakers (1),San Antonio Spurs (8),Los Angeles Lakers (1),No,1984 format
+1988,Western Conference First Round,Utah Jazz (5),Portland Trail Blazers (4),Utah Jazz (5),Yes,1984 format
+1988,Eastern Conference Semifinals,Boston Celtics (1),Atlanta Hawks (4),Boston Celtics (1),No,1984 format
+1988,Eastern Conference Semifinals,Detroit Pistons (2),Chicago Bulls (3),Detroit Pistons (2),No,1984 format
+1988,Western Conference Semifinals,Dallas Mavericks (3),Denver Nuggets (2),Dallas Mavericks (3),Yes,1984 format
+1988,Western Conference Semifinals,Los Angeles Lakers (1),Utah Jazz (5),Los Angeles Lakers (1),No,1984 format
+1988,Eastern Conference Finals,Detroit Pistons (2),Boston Celtics (1),Detroit Pistons (2),Yes,1984 format
+1988,Western Conference Finals,Los Angeles Lakers (1),Dallas Mavericks (3),Los Angeles Lakers (1),No,1984 format
+1988,Finals,Los Angeles Lakers (1),Detroit Pistons (2),Los Angeles Lakers (1),No,1984 format
+1987,Eastern Conference First Round,Atlanta Hawks (2),Indiana Pacers (7),Atlanta Hawks (2),No,1984 format
+1987,Eastern Conference First Round,Boston Celtics (1),Chicago Bulls (8),Boston Celtics (1),No,1984 format
+1987,Eastern Conference First Round,Detroit Pistons (3),Washington Bullets (6),Detroit Pistons (3),No,1984 format
+1987,Eastern Conference First Round,Milwaukee Bucks (4),Philadelphia 76ers (5),Milwaukee Bucks (4),No,1984 format
+1987,Western Conference First Round,Golden State Warriors (5),Utah Jazz (4),Golden State Warriors (5),Yes,1984 format
+1987,Western Conference First Round,Houston Rockets (6),Portland Trail Blazers (3),Houston Rockets (6),Yes,1984 format
+1987,Western Conference First Round,Los Angeles Lakers (1),Denver Nuggets (8),Los Angeles Lakers (1),No,1984 format
+1987,Western Conference First Round,Seattle SuperSonics (7),Dallas Mavericks (2),Seattle SuperSonics (7),Yes,1984 format
+1987,Eastern Conference Semifinals,Boston Celtics (1),Milwaukee Bucks (4),Boston Celtics (1),No,1984 format
+1987,Eastern Conference Semifinals,Detroit Pistons (3),Atlanta Hawks (2),Detroit Pistons (3),Yes,1984 format
+1987,Western Conference Semifinals,Los Angeles Lakers (1),Golden State Warriors (5),Los Angeles Lakers (1),No,1984 format
+1987,Western Conference Semifinals,Seattle SuperSonics (7),Houston Rockets (6),Seattle SuperSonics (7),Yes,1984 format
+1987,Eastern Conference Finals,Boston Celtics (1),Detroit Pistons (3),Boston Celtics (1),No,1984 format
+1987,Western Conference Finals,Los Angeles Lakers (1),Seattle SuperSonics (7),Los Angeles Lakers (1),No,1984 format
+1987,Finals,Los Angeles Lakers (1),Boston Celtics (1),Los Angeles Lakers (1),No,1984 format
+1986,Eastern Conference First Round,Atlanta Hawks (4),Detroit Pistons (5),Atlanta Hawks (4),No,1984 format
+1986,Eastern Conference First Round,Boston Celtics (1),Chicago Bulls (8),Boston Celtics (1),No,1984 format
+1986,Eastern Conference First Round,Milwaukee Bucks (2),New Jersey Nets (7),Milwaukee Bucks (2),No,1984 format
+1986,Eastern Conference First Round,Philadelphia 76ers (3),Washington Bullets (6),Philadelphia 76ers (3),No,1984 format
+1986,Western Conference First Round,Dallas Mavericks (4),Utah Jazz (5),Dallas Mavericks (4),No,1984 format
+1986,Western Conference First Round,Denver Nuggets (3),Portland Trail Blazers (6),Denver Nuggets (3),No,1984 format
+1986,Western Conference First Round,Houston Rockets (2),Sacramento Kings (7),Houston Rockets (2),No,1984 format
+1986,Western Conference First Round,Los Angeles Lakers (1),San Antonio Spurs (8),Los Angeles Lakers (1),No,1984 format
+1986,Eastern Conference Semifinals,Boston Celtics (1),Atlanta Hawks (4),Boston Celtics (1),No,1984 format
+1986,Eastern Conference Semifinals,Milwaukee Bucks (2),Philadelphia 76ers (3),Milwaukee Bucks (2),No,1984 format
+1986,Western Conference Semifinals,Houston Rockets (2),Denver Nuggets (3),Houston Rockets (2),No,1984 format
+1986,Western Conference Semifinals,Los Angeles Lakers (1),Dallas Mavericks (4),Los Angeles Lakers (1),No,1984 format
+1986,Eastern Conference Finals,Boston Celtics (1),Milwaukee Bucks (2),Boston Celtics (1),No,1984 format
+1986,Western Conference Finals,Houston Rockets (2),Los Angeles Lakers (1),Houston Rockets (2),Yes,1984 format
+1986,Finals,Boston Celtics (1),Houston Rockets (2),Boston Celtics (1),No,1984 format
+1985,Eastern Conference First Round,Boston Celtics (1),Cleveland Cavaliers (8),Boston Celtics (1),No,1984 format
+1985,Eastern Conference First Round,Detroit Pistons (4),New Jersey Nets (5),Detroit Pistons (4),No,1984 format
+1985,Eastern Conference First Round,Milwaukee Bucks (2),Chicago Bulls (7),Milwaukee Bucks (2),No,1984 format
+1985,Eastern Conference First Round,Philadelphia 76ers (3),Washington Bullets (6),Philadelphia 76ers (3),No,1984 format
+1985,Western Conference First Round,Denver Nuggets (2),San Antonio Spurs (7),Denver Nuggets (2),No,1984 format
+1985,Western Conference First Round,Los Angeles Lakers (1),Phoenix Suns (8),Los Angeles Lakers (1),No,1984 format
+1985,Western Conference First Round,Portland Trail Blazers (5),Dallas Mavericks (4),Portland Trail Blazers (5),Yes,1984 format
+1985,Western Conference First Round,Utah Jazz (6),Houston Rockets (3),Utah Jazz (6),Yes,1984 format
+1985,Eastern Conference Semifinals,Boston Celtics (1),Detroit Pistons (4),Boston Celtics (1),No,1984 format
+1985,Eastern Conference Semifinals,Philadelphia 76ers (3),Milwaukee Bucks (2),Philadelphia 76ers (3),Yes,1984 format
+1985,Western Conference Semifinals,Denver Nuggets (2),Utah Jazz (6),Denver Nuggets (2),No,1984 format
+1985,Western Conference Semifinals,Los Angeles Lakers (1),Portland Trail Blazers (5),Los Angeles Lakers (1),No,1984 format
+1985,Eastern Conference Finals,Boston Celtics (1),Philadelphia 76ers (3),Boston Celtics (1),No,1984 format
+1985,Western Conference Finals,Los Angeles Lakers (1),Denver Nuggets (2),Los Angeles Lakers (1),No,1984 format
+1985,Finals,Los Angeles Lakers (1),Boston Celtics (1),Los Angeles Lakers (1),No,1984 format
+1984,Eastern Conference First Round,Boston Celtics (1),Washington Bullets (8),Boston Celtics (1),No,1984 format
+1984,Eastern Conference First Round,Milwaukee Bucks (2),Atlanta Hawks (7),Milwaukee Bucks (2),No,1984 format
+1984,Eastern Conference First Round,New Jersey Nets (6),Philadelphia 76ers (3),New Jersey Nets (6),Yes,1984 format
+1984,Eastern Conference First Round,New York Knicks (5),Detroit Pistons (4),New York Knicks (5),Yes,1984 format
+1984,Western Conference First Round,Dallas Mavericks (4),Seattle SuperSonics (5),Dallas Mavericks (4),No,1984 format
+1984,Western Conference First Round,Los Angeles Lakers (1),Kansas City Kings (8),Los Angeles Lakers (1),No,1984 format
+1984,Western Conference First Round,Phoenix Suns (6),Portland Trail Blazers (3),Phoenix Suns (6),Yes,1984 format
+1984,Western Conference First Round,Utah Jazz (2),Denver Nuggets (7),Utah Jazz (2),No,1984 format
+1984,Eastern Conference Semifinals,Boston Celtics (1),New York Knicks (5),Boston Celtics (1),No,1984 format
+1984,Eastern Conference Semifinals,Milwaukee Bucks (2),New Jersey Nets (6),Milwaukee Bucks (2),No,1984 format
+1984,Western Conference Semifinals,Los Angeles Lakers (1),Dallas Mavericks (4),Los Angeles Lakers (1),No,1984 format
+1984,Western Conference Semifinals,Phoenix Suns (6),Utah Jazz (2),Phoenix Suns (6),Yes,1984 format
+1984,Eastern Conference Finals,Boston Celtics (1),Milwaukee Bucks (2),Boston Celtics (1),No,1984 format
+1984,Western Conference Finals,Los Angeles Lakers (1),Phoenix Suns (6),Los Angeles Lakers (1),No,1984 format
+1984,Finals,Boston Celtics (1),Los Angeles Lakers (1),Boston Celtics (1),No,1984 format
+1983,Eastern Conference First Round,Boston Celtics (3),Atlanta Hawks (6),Boston Celtics (3),No,1977 format
+1983,Eastern Conference First Round,New York Knicks (5),New Jersey Nets (4),New York Knicks (5),Yes,1977 format
+1983,Western Conference First Round,Denver Nuggets (6),Phoenix Suns (3),Denver Nuggets (6),Yes,1977 format
+1983,Western Conference First Round,Portland Trail Blazers (5),Seattle SuperSonics (4),Portland Trail Blazers (5),Yes,1977 format
+1983,Eastern Conference Semifinals,Milwaukee Bucks (2),Boston Celtics (3),Milwaukee Bucks (2),No,1977 format
+1983,Eastern Conference Semifinals,Philadelphia 76ers (1),New York Knicks (5),Philadelphia 76ers (1),No,1977 format
+1983,Western Conference Semifinals,Los Angeles Lakers (1),Portland Trail Blazers (5),Los Angeles Lakers (1),No,1977 format
+1983,Western Conference Semifinals,San Antonio Spurs (2),Denver Nuggets (6),San Antonio Spurs (2),No,1977 format
+1983,Eastern Conference Finals,Philadelphia 76ers (1),Milwaukee Bucks (2),Philadelphia 76ers (1),No,1977 format
+1983,Western Conference Finals,Los Angeles Lakers (1),San Antonio Spurs (2),Los Angeles Lakers (1),No,1977 format
+1983,Finals,Philadelphia 76ers (1),Los Angeles Lakers (1),Philadelphia 76ers (1),No,1977 format
+1982,Eastern Conference First Round,Philadelphia 76ers (3),Atlanta Hawks (6),Philadelphia 76ers (3),No,1977 format
+1982,Eastern Conference First Round,Washington Bullets (5),New Jersey Nets (4),Washington Bullets (5),Yes,1977 format
+1982,Western Conference First Round,Phoenix Suns (5),Denver Nuggets (4),Phoenix Suns (5),Yes,1977 format
+1982,Western Conference First Round,Seattle SuperSonics (3),Houston Rockets (6),Seattle SuperSonics (3),No,1977 format
+1982,Eastern Conference Semifinals,Boston Celtics (1),Washington Bullets (5),Boston Celtics (1),No,1977 format
+1982,Eastern Conference Semifinals,Philadelphia 76ers (3),Milwaukee Bucks (2),Philadelphia 76ers (3),Yes,1977 format
+1982,Western Conference Semifinals,Los Angeles Lakers (1),Phoenix Suns (5),Los Angeles Lakers (1),No,1977 format
+1982,Western Conference Semifinals,San Antonio Spurs (2),Seattle SuperSonics (3),San Antonio Spurs (2),No,1977 format
+1982,Eastern Conference Finals,Philadelphia 76ers (3),Boston Celtics (1),Philadelphia 76ers (3),Yes,1977 format
+1982,Western Conference Finals,Los Angeles Lakers (1),San Antonio Spurs (2),Los Angeles Lakers (1),No,1977 format
+1982,Finals,Los Angeles Lakers (1),Philadelphia 76ers (3),Los Angeles Lakers (1),No,1977 format
+1981,Eastern Conference First Round,Chicago Bulls (5),New York Knicks (4),Chicago Bulls (5),Yes,1977 format
+1981,Eastern Conference First Round,Philadelphia 76ers (3),Indiana Pacers (6),Philadelphia 76ers (3),No,1977 format
+1981,Western Conference First Round,Houston Rockets (6),Los Angeles Lakers (3),Houston Rockets (6),Yes,1977 format
+1981,Western Conference First Round,Kansas City Kings (5),Portland Trail Blazers (4),Kansas City Kings (5),Yes,1977 format
+1981,Eastern Conference Semifinals,Boston Celtics (1),Chicago Bulls (5),Boston Celtics (1),No,1977 format
+1981,Eastern Conference Semifinals,Philadelphia 76ers (3),Milwaukee Bucks (2),Philadelphia 76ers (3),Yes,1977 format
+1981,Western Conference Semifinals,Houston Rockets (6),San Antonio Spurs (2),Houston Rockets (6),Yes,1977 format
+1981,Western Conference Semifinals,Kansas City Kings (5),Phoenix Suns (1),Kansas City Kings (5),Yes,1977 format
+1981,Eastern Conference Finals,Boston Celtics (1),Philadelphia 76ers (3),Boston Celtics (1),No,1977 format
+1981,Western Conference Finals,Houston Rockets (6),Kansas City Kings (5),Houston Rockets (6),Yes,1977 format
+1981,Finals,Boston Celtics (1),Houston Rockets (6),Boston Celtics (1),No,1977 format
+1980,Eastern Conference First Round,Houston Rockets (4),San Antonio Spurs (5),Houston Rockets (4),No,1977 format
+1980,Eastern Conference First Round,Philadelphia 76ers (3),Washington Bullets (6),Philadelphia 76ers (3),No,1977 format
+1980,Western Conference First Round,Phoenix Suns (4),Kansas City Kings (5),Phoenix Suns (4),No,1977 format
+1980,Western Conference First Round,Seattle SuperSonics (3),Portland Trail Blazers (6),Seattle SuperSonics (3),No,1977 format
+1980,Eastern Conference Semifinals,Boston Celtics (1),Houston Rockets (4),Boston Celtics (1),No,1977 format
+1980,Eastern Conference Semifinals,Philadelphia 76ers (3),Atlanta Hawks (2),Philadelphia 76ers (3),Yes,1977 format
+1980,Western Conference Semifinals,Los Angeles Lakers (1),Phoenix Suns (4),Los Angeles Lakers (1),No,1977 format
+1980,Western Conference Semifinals,Seattle SuperSonics (3),Milwaukee Bucks (2),Seattle SuperSonics (3),Yes,1977 format
+1980,Eastern Conference Finals,Philadelphia 76ers (3),Boston Celtics (1),Philadelphia 76ers (3),Yes,1977 format
+1980,Western Conference Finals,Los Angeles Lakers (1),Seattle SuperSonics (3),Los Angeles Lakers (1),No,1977 format
+1980,Finals,Los Angeles Lakers (1),Philadelphia 76ers (3),Los Angeles Lakers (1),No,1977 format
+1979,Eastern Conference First Round,Atlanta Hawks (5),Houston Rockets (4),Atlanta Hawks (5),Yes,1977 format
+1979,Eastern Conference First Round,Philadelphia 76ers (3),New Jersey Nets (6),Philadelphia 76ers (3),No,1977 format
+1979,Western Conference First Round,Los Angeles Lakers (5),Denver Nuggets (4),Los Angeles Lakers (5),Yes,1977 format
+1979,Western Conference First Round,Phoenix Suns (3),Portland Trail Blazers (6),Phoenix Suns (3),No,1977 format
+1979,Eastern Conference Semifinals,San Antonio Spurs (2),Philadelphia 76ers (3),San Antonio Spurs (2),No,1977 format
+1979,Eastern Conference Semifinals,Washington Bullets (1),Atlanta Hawks (5),Washington Bullets (1),No,1977 format
+1979,Western Conference Semifinals,Phoenix Suns (3),Kansas City Kings (2),Phoenix Suns (3),Yes,1977 format
+1979,Western Conference Semifinals,Seattle SuperSonics (1),Los Angeles Lakers (5),Seattle SuperSonics (1),No,1977 format
+1979,Eastern Conference Finals,Washington Bullets (1),San Antonio Spurs (2),Washington Bullets (1),No,1977 format
+1979,Western Conference Finals,Seattle SuperSonics (1),Phoenix Suns (3),Seattle SuperSonics (1),No,1977 format
+1979,Finals,Seattle SuperSonics (1),Washington Bullets (1),Seattle SuperSonics (1),No,1977 format
+1978,Eastern Conference First Round,New York Knicks (5),Cleveland Cavaliers (4),New York Knicks (5),Yes,1977 format
+1978,Eastern Conference First Round,Washington Bullets (3),Atlanta Hawks (6),Washington Bullets (3),No,1977 format
+1978,Western Conference First Round,Milwaukee Bucks (6),Phoenix Suns (3),Milwaukee Bucks (6),Yes,1977 format
+1978,Western Conference First Round,Seattle SuperSonics (4),Los Angeles Lakers (5),Seattle SuperSonics (4),No,1977 format
+1978,Eastern Conference Semifinals,Philadelphia 76ers (1),New York Knicks (5),Philadelphia 76ers (1),No,1977 format
+1978,Eastern Conference Semifinals,Washington Bullets (3),San Antonio Spurs (2),Washington Bullets (3),Yes,1977 format
+1978,Western Conference Semifinals,Denver Nuggets (2),Milwaukee Bucks (6),Denver Nuggets (2),No,1977 format
+1978,Western Conference Semifinals,Seattle SuperSonics (4),Portland Trail Blazers (1),Seattle SuperSonics (4),Yes,1977 format
+1978,Eastern Conference Finals,Washington Bullets (3),Philadelphia 76ers (1),Washington Bullets (3),Yes,1977 format
+1978,Western Conference Finals,Seattle SuperSonics (4),Denver Nuggets (2),Seattle SuperSonics (4),Yes,1977 format
+1978,Finals,Washington Bullets (3),Seattle SuperSonics (4),Washington Bullets (3),No,1977 format
+1977,Eastern Conference First Round,Boston Celtics (4),San Antonio Spurs (5),Boston Celtics (4),No,1977 format
+1977,Eastern Conference First Round,Washington Bullets (3),Cleveland Cavaliers (6),Washington Bullets (3),No,1977 format
+1977,Western Conference First Round,Golden State Warriors (4),Detroit Pistons (5),Golden State Warriors (4),No,1977 format
+1977,Western Conference First Round,Portland Trail Blazers (3),Chicago Bulls (6),Portland Trail Blazers (3),No,1977 format
+1977,Eastern Conference Semifinals,Houston Rockets (2),Washington Bullets (3),Houston Rockets (2),No,1977 format
+1977,Eastern Conference Semifinals,Philadelphia 76ers (1),Boston Celtics (4),Philadelphia 76ers (1),No,1977 format
+1977,Western Conference Semifinals,Los Angeles Lakers (1),Golden State Warriors (4),Los Angeles Lakers (1),No,1977 format
+1977,Western Conference Semifinals,Portland Trail Blazers (3),Denver Nuggets (2),Portland Trail Blazers (3),Yes,1977 format
+1977,Eastern Conference Finals,Philadelphia 76ers (1),Houston Rockets (2),Philadelphia 76ers (1),No,1977 format
+1977,Western Conference Finals,Portland Trail Blazers (3),Los Angeles Lakers (1),Portland Trail Blazers (3),Yes,1977 format
+1977,Finals,Portland Trail Blazers (3),Philadelphia 76ers (1),Portland Trail Blazers (3),Yes,1977 format
+1976,Eastern Conference First Round,Buffalo Braves (5),Philadelphia 76ers (4),Buffalo Braves (5),Yes,1975 format
+1976,Western Conference First Round,Detroit Pistons (5),Milwaukee Bucks (4),Detroit Pistons (5),Yes,1975 format
+1976,Eastern Conference Semifinals,Boston Celtics (1),Buffalo Braves (5),Boston Celtics (1),No,1975 format
+1976,Eastern Conference Semifinals,Cleveland Cavaliers (2),Washington Bullets (3),Cleveland Cavaliers (2),No,1975 format
+1976,Western Conference Semifinals,Golden State Warriors (1),Detroit Pistons (5),Golden State Warriors (1),No,1975 format
+1976,Western Conference Semifinals,Phoenix Suns (3),Seattle SuperSonics (2),Phoenix Suns (3),Yes,1975 format
+1976,Eastern Conference Finals,Boston Celtics (1),Cleveland Cavaliers (2),Boston Celtics (1),No,1975 format
+1976,Western Conference Finals,Phoenix Suns (3),Golden State Warriors (1),Phoenix Suns (3),Yes,1975 format
+1976,Finals,Boston Celtics (1),Phoenix Suns (3),Boston Celtics (1),No,1975 format
+1976,First Round,Kentucky Colonels (4),Indiana Pacers (5),Kentucky Colonels (4),No,1975 format
+1976,Semifinals,Denver Nuggets (1),Kentucky Colonels (4),Denver Nuggets (1),No,1975 format
+1976,Semifinals,New York Nets (2),San Antonio Spurs (3),New York Nets (2),No,1975 format
+1976,Finals,New York Nets (2),Denver Nuggets (1),New York Nets (2),Yes,1975 format
+1975,Eastern Conference First Round,Houston Rockets (4),New York Knicks (5),Houston Rockets (4),No,1975 format
+1975,Western Conference First Round,Seattle SuperSonics (4),Detroit Pistons (5),Seattle SuperSonics (4),No,1975 format
+1975,Eastern Conference Semifinals,Boston Celtics (1),Houston Rockets (4),Boston Celtics (1),No,1975 format
+1975,Eastern Conference Semifinals,Washington Bullets (2),Buffalo Braves (3),Washington Bullets (2),No,1975 format
+1975,Western Conference Semifinals,Chicago Bulls (2),Omaha Kings (3),Chicago Bulls (2),No,1975 format
+1975,Western Conference Semifinals,Golden State Warriors (1),Seattle SuperSonics (4),Golden State Warriors (1),No,1975 format
+1975,Eastern Conference Finals,Washington Bullets (2),Boston Celtics (1),Washington Bullets (2),Yes,1975 format
+1975,Western Conference Finals,Golden State Warriors (1),Chicago Bulls (2),Golden State Warriors (1),No,1975 format
+1975,Finals,Golden State Warriors (1),Washington Bullets (2),Golden State Warriors (1),No,1975 format
+1975,Eastern Division Semifinals,Kentucky Colonels (1),Memphis Sounds (4),Kentucky Colonels (1),No,1975 format
+1975,Eastern Division Semifinals, Louis (3),New York Nets (2), Louis (3),Yes,1975 format
+1975,Western Division Semifinals,Denver Nuggets (1),Utah Stars (4),Denver Nuggets (1),No,1975 format
+1975,Western Division Semifinals,Indiana Pacers (3),San Antonio Spurs (2),Indiana Pacers (3),Yes,1975 format
+1975,Eastern Division Finals,Kentucky Colonels (1), Louis (3),Kentucky Colonels (1),No,1975 format
+1975,Western Division Finals,Indiana Pacers (3),Denver Nuggets (1),Indiana Pacers (3),Yes,1975 format
+1975,Finals,Kentucky Colonels (1),Indiana Pacers (3),Kentucky Colonels (1),No,1975 format
+1974,Eastern Conference Semifinals,Boston Celtics (1),Buffalo Braves (4),Boston Celtics (1),No,1970 format
+1974,Eastern Conference Semifinals,New York Knicks (2),Capital Bullets (3),New York Knicks (2),No,1970 format
+1974,Western Conference Semifinals,Chicago Bulls (2),Detroit Pistons (3),Chicago Bulls (2),No,1970 format
+1974,Western Conference Semifinals,Milwaukee Bucks (1),Los Angeles Lakers (4),Milwaukee Bucks (1),No,1970 format
+1974,Eastern Conference Finals,Boston Celtics (1),New York Knicks (2),Boston Celtics (1),No,1970 format
+1974,Western Conference Finals,Milwaukee Bucks (1),Chicago Bulls (2),Milwaukee Bucks (1),No,1970 format
+1974,Finals,Boston Celtics (1),Milwaukee Bucks (1),Boston Celtics (1),No,1970 format
+1974,Eastern Division Semifinals,Kentucky Colonels (2),Carolina Cougars (3),Kentucky Colonels (2),No,1970 format
+1974,Eastern Division Semifinals,New York Nets (1),Virginia Squires (4),New York Nets (1),No,1970 format
+1974,Western Division Semifinals,Indiana Pacers (2),San Antonio Spurs (3),Indiana Pacers (2),No,1970 format
+1974,Western Division Semifinals,Utah Stars (1),San Diego Conquistadors (4),Utah Stars (1),No,1970 format
+1974,Eastern Division Finals,New York Nets (1),Kentucky Colonels (2),New York Nets (1),No,1970 format
+1974,Western Division Finals,Utah Stars (1),Indiana Pacers (2),Utah Stars (1),No,1970 format
+1974,Finals,New York Nets (1),Utah Stars (1),New York Nets (1),No,1970 format
+1973,Eastern Conference Semifinals,Boston Celtics (1),Atlanta Hawks (4),Boston Celtics (1),No,1970 format
+1973,Eastern Conference Semifinals,New York Knicks (2),Baltimore Bullets (3),New York Knicks (2),No,1970 format
+1973,Western Conference Semifinals,Golden State Warriors (4),Milwaukee Bucks (1),Golden State Warriors (4),Yes,1970 format
+1973,Western Conference Semifinals,Los Angeles Lakers (2),Chicago Bulls (3),Los Angeles Lakers (2),No,1970 format
+1973,Eastern Conference Finals,New York Knicks (2),Boston Celtics (1),New York Knicks (2),Yes,1970 format
+1973,Western Conference Finals,Los Angeles Lakers (2),Golden State Warriors (4),Los Angeles Lakers (2),No,1970 format
+1973,Finals,New York Knicks (2),Los Angeles Lakers (2),New York Knicks (2),No,1970 format
+1973,Eastern Division Semifinals,Carolina Cougars (1),New York Nets (4),Carolina Cougars (1),No,1970 format
+1973,Eastern Division Semifinals,Kentucky Colonels (2),Virginia Squires (3),Kentucky Colonels (2),No,1970 format
+1973,Western Division Semifinals,Indiana Pacers (2),Denver Rockets (3),Indiana Pacers (2),No,1970 format
+1973,Western Division Semifinals,Utah Stars (1),San Diego Conquistadors (4),Utah Stars (1),No,1970 format
+1973,Eastern Division Finals,Kentucky Colonels (2),Carolina Cougars (1),Kentucky Colonels (2),Yes,1970 format
+1973,Western Division Finals,Indiana Pacers (2),Utah Stars (1),Indiana Pacers (2),Yes,1970 format
+1973,Finals,Indiana Pacers (2),Kentucky Colonels (2),Indiana Pacers (2),No,1970 format
+1972,Eastern Conference Semifinals,Boston Celtics (1),Atlanta Hawks (2),Boston Celtics (1),No,1970 format
+1972,Eastern Conference Semifinals,New York Knicks (2),Baltimore Bullets (1),New York Knicks (2),Yes,1970 format
+1972,Western Conference Semifinals,Los Angeles Lakers (1),Chicago Bulls (2),Los Angeles Lakers (1),No,1970 format
+1972,Western Conference Semifinals,Milwaukee Bucks (1),Golden State Warriors (2),Milwaukee Bucks (1),No,1970 format
+1972,Eastern Conference Finals,New York Knicks (2),Boston Celtics (1),New York Knicks (2),Yes,1970 format
+1972,Western Conference Finals,Los Angeles Lakers (1),Milwaukee Bucks (1),Los Angeles Lakers (1),No,1970 format
+1972,Finals,Los Angeles Lakers (1),New York Knicks (2),Los Angeles Lakers (1),No,1970 format
+1972,Eastern Division Semifinals,New York Nets (3),Kentucky Colonels (1),New York Nets (3),Yes,1970 format
+1972,Eastern Division Semifinals,Virginia Squires (2),The Floridians (4),Virginia Squires (2),No,1970 format
+1972,Western Division Semifinals,Indiana Pacers (2),Denver Rockets (4),Indiana Pacers (2),No,1970 format
+1972,Western Division Semifinals,Utah Stars (1),Dallas Chaparrals (3),Utah Stars (1),No,1970 format
+1972,Eastern Division Finals,New York Nets (3),Virginia Squires (2),New York Nets (3),Yes,1970 format
+1972,Western Division Finals,Indiana Pacers (2),Utah Stars (1),Indiana Pacers (2),Yes,1970 format
+1972,Finals,Indiana Pacers (2),New York Nets (3),Indiana Pacers (2),No,1970 format
+1971,Eastern Conference Semifinals,Baltimore Bullets (1),Philadelphia 76ers (2),Baltimore Bullets (1),No,1970 format
+1971,Eastern Conference Semifinals,New York Knicks (1),Atlanta Hawks (2),New York Knicks (1),No,1970 format
+1971,Western Conference Semifinals,Los Angeles Lakers (1),Chicago Bulls (2),Los Angeles Lakers (1),No,1970 format
+1971,Western Conference Semifinals,Milwaukee Bucks (1),San Francisco Warriors (2),Milwaukee Bucks (1),No,1970 format
+1971,Eastern Conference Finals,Baltimore Bullets (1),New York Knicks (1),Baltimore Bullets (1),No,1970 format
+1971,Western Conference Finals,Milwaukee Bucks (1),Los Angeles Lakers (1),Milwaukee Bucks (1),No,1970 format
+1971,Finals,Milwaukee Bucks (1),Baltimore Bullets (1),Milwaukee Bucks (1),No,1970 format
+1971,Eastern Division Semifinals,Kentucky Colonels (2),The Floridians (4),Kentucky Colonels (2),No,1970 format
+1971,Eastern Division Semifinals,Virginia Squires (1),New York Nets (3),Virginia Squires (1),No,1970 format
+1971,Western Division Semifinals,Indiana Pacers (1),Memphis Pros (3),Indiana Pacers (1),No,1970 format
+1971,Western Division Semifinals,Utah Stars (2),Texas Chaparrals (4),Utah Stars (2),No,1970 format
+1971,Eastern Division Finals,Kentucky Colonels (2),Virginia Squires (1),Kentucky Colonels (2),Yes,1970 format
+1971,Western Division Finals,Utah Stars (2),Indiana Pacers (1),Utah Stars (2),Yes,1970 format
+1971,Finals,Utah Stars (2),Kentucky Colonels (2),Utah Stars (2),No,1970 format
+1970,Eastern Division Semifinals,Milwaukee Bucks (2),Philadelphia 76ers (4),Milwaukee Bucks (2),No,1970 format
+1970,Eastern Division Semifinals,New York Knicks (1),Baltimore Bullets (3),New York Knicks (1),No,1970 format
+1970,Western Division Semifinals,Atlanta Hawks (1),Chicago Bulls (3),Atlanta Hawks (1),No,1970 format
+1970,Western Division Semifinals,Los Angeles Lakers (2),Phoenix Suns (4),Los Angeles Lakers (2),No,1970 format
+1970,Eastern Division Finals,New York Knicks (1),Milwaukee Bucks (2),New York Knicks (1),No,1970 format
+1970,Western Division Finals,Los Angeles Lakers (2),Atlanta Hawks (1),Los Angeles Lakers (2),Yes,1970 format
+1970,Finals,New York Knicks (1),Los Angeles Lakers (2),New York Knicks (1),No,1970 format
+1970,Eastern Division Semifinals,Indiana Pacers (1),Carolina Cougars (3),Indiana Pacers (1),No,1970 format
+1970,Eastern Division Semifinals,Kentucky Colonels (2),New York Nets (4),Kentucky Colonels (2),No,1970 format
+1970,Western Division Semifinals,Denver Rockets (1),Washington Capitols (3),Denver Rockets (1),No,1970 format
+1970,Western Division Semifinals,Los Angeles Stars (4),Dallas Chaparrals (2),Los Angeles Stars (4),Yes,1970 format
+1970,Eastern Division Finals,Indiana Pacers (1),Kentucky Colonels (2),Indiana Pacers (1),No,1970 format
+1970,Western Division Finals,Los Angeles Stars (4),Denver Rockets (1),Los Angeles Stars (4),Yes,1970 format
+1970,Finals,Indiana Pacers (1),Los Angeles Stars (4),Indiana Pacers (1),No,1970 format
+1969,Eastern Division Semifinals,Boston Celtics (4),Philadelphia 76ers (2),Boston Celtics (4),Yes,older formats
+1969,Eastern Division Semifinals,New York Knicks (3),Baltimore Bullets (1),New York Knicks (3),Yes,older formats
+1969,Western Division Semifinals,Atlanta Hawks (2),San Diego Rockets (4),Atlanta Hawks (2),No,older formats
+1969,Western Division Semifinals,Los Angeles Lakers (1),San Francisco Warriors (3),Los Angeles Lakers (1),No,older formats
+1969,Eastern Division Finals,Boston Celtics (4),New York Knicks (3),Boston Celtics (4),Yes,older formats
+1969,Western Division Finals,Los Angeles Lakers (1),Atlanta Hawks (2),Los Angeles Lakers (1),No,older formats
+1969,Finals,Boston Celtics (4),Los Angeles Lakers (1),Boston Celtics (4),Yes,older formats
+1969,Eastern Division Semifinals,Indiana Pacers (1),Kentucky Colonels (3),Indiana Pacers (1),No,older formats
+1969,Eastern Division Semifinals,Miami Floridians (2),Minnesota Pipers (4),Miami Floridians (2),No,older formats
+1969,Western Division Semifinals,New Orleans Buccaneers (2),Dallas Chaparrals (4),New Orleans Buccaneers (2),No,older formats
+1969,Western Division Semifinals,Oakland Oaks (1),Denver Rockets (3),Oakland Oaks (1),No,older formats
+1969,Eastern Division Finals,Indiana Pacers (1),Miami Floridians (2),Indiana Pacers (1),No,older formats
+1969,Western Division Finals,Oakland Oaks (1),New Orleans Buccaneers (2),Oakland Oaks (1),No,older formats
+1969,Finals,Oakland Oaks (1),Indiana Pacers (1),Oakland Oaks (1),No,older formats
+1968,Eastern Division Semifinals,Boston Celtics (2),Detroit Pistons (4),Boston Celtics (2),No,older formats
+1968,Eastern Division Semifinals,Philadelphia 76ers (1),New York Knicks (3),Philadelphia 76ers (1),No,older formats
+1968,Western Division Semifinals,Los Angeles Lakers (2),Chicago Bulls (4),Los Angeles Lakers (2),No,older formats
+1968,Western Division Semifinals,San Francisco Warriors (3), Louis Hawks (1),San Francisco Warriors (3),Yes,older formats
+1968,Eastern Division Finals,Boston Celtics (2),Philadelphia 76ers (1),Boston Celtics (2),Yes,older formats
+1968,Western Division Finals,Los Angeles Lakers (2),San Francisco Warriors (3),Los Angeles Lakers (2),No,older formats
+1968,Finals,Boston Celtics (2),Los Angeles Lakers (2),Boston Celtics (2),No,older formats
+1968,Eastern Division Semifinals,Minnesota Muskies (2),Kentucky Colonels (4),Minnesota Muskies (2),No,older formats
+1968,Eastern Division Semifinals,Pittsburgh Pipers (1),Indiana Pacers (3),Pittsburgh Pipers (1),No,older formats
+1968,Western Division Semifinals,Dallas Chaparrals (2),Houston Mavericks (4),Dallas Chaparrals (2),No,older formats
+1968,Western Division Semifinals,New Orleans Buccaneers (1),Denver Rockets (3),New Orleans Buccaneers (1),No,older formats
+1968,Eastern Division Finals,Pittsburgh Pipers (1),Minnesota Muskies (2),Pittsburgh Pipers (1),No,older formats
+1968,Western Division Finals,New Orleans Buccaneers (1),Dallas Chaparrals (2),New Orleans Buccaneers (1),No,older formats
+1968,Finals,Pittsburgh Pipers (1),New Orleans Buccaneers (1),Pittsburgh Pipers (1),No,older formats
+1967,Eastern Division Semifinals,Boston Celtics (2),New York Knicks (4),Boston Celtics (2),No,older formats
+1967,Eastern Division Semifinals,Philadelphia 76ers (1),Cincinnati Royals (3),Philadelphia 76ers (1),No,older formats
+1967,Western Division Semifinals,San Francisco Warriors (1),Los Angeles Lakers (3),San Francisco Warriors (1),No,older formats
+1967,Western Division Semifinals, Louis Hawks (2),Chicago Bulls (4), Louis Hawks (2),No,older formats
+1967,Eastern Division Finals,Philadelphia 76ers (1),Boston Celtics (2),Philadelphia 76ers (1),No,older formats
+1967,Western Division Finals,San Francisco Warriors (1), Louis Hawks (2),San Francisco Warriors (1),No,older formats
+1967,Finals,Philadelphia 76ers (1),San Francisco Warriors (1),Philadelphia 76ers (1),No,older formats
+1966,Eastern Division Semifinals,Boston Celtics (2),Cincinnati Royals (3),Boston Celtics (2),No,older formats
+1966,Western Division Semifinals, Louis Hawks (3),Baltimore Bullets (2), Louis Hawks (3),Yes,older formats
+1966,Eastern Division Finals,Boston Celtics (2),Philadelphia 76ers (1),Boston Celtics (2),Yes,older formats
+1966,Western Division Finals,Los Angeles Lakers (1), Louis Hawks (3),Los Angeles Lakers (1),No,older formats
+1966,Finals,Boston Celtics (2),Los Angeles Lakers (1),Boston Celtics (2),Yes,older formats
+1965,Eastern Division Semifinals,Philadelphia 76ers (3),Cincinnati Royals (2),Philadelphia 76ers (3),Yes,older formats
+1965,Western Division Semifinals,Baltimore Bullets (3), Louis Hawks (2),Baltimore Bullets (3),Yes,older formats
+1965,Eastern Division Finals,Boston Celtics (1),Philadelphia 76ers (3),Boston Celtics (1),No,older formats
+1965,Western Division Finals,Los Angeles Lakers (1),Baltimore Bullets (3),Los Angeles Lakers (1),No,older formats
+1965,Finals,Boston Celtics (1),Los Angeles Lakers (1),Boston Celtics (1),No,older formats
+1964,Eastern Division Semifinals,Cincinnati Royals (2),Philadelphia 76ers (3),Cincinnati Royals (2),No,older formats
+1964,Western Division Semifinals, Louis Hawks (2),Los Angeles Lakers (3), Louis Hawks (2),No,older formats
+1964,Eastern Division Finals,Boston Celtics (1),Cincinnati Royals (2),Boston Celtics (1),No,older formats
+1964,Western Division Finals,San Francisco Warriors (1), Louis Hawks (2),San Francisco Warriors (1),No,older formats
+1964,Finals,Boston Celtics (1),San Francisco Warriors (1),Boston Celtics (1),No,older formats
+1963,Eastern Division Semifinals,Cincinnati Royals (3),Syracuse Nationals (2),Cincinnati Royals (3),Yes,older formats
+1963,Western Division Semifinals, Louis Hawks (2),Detroit Pistons (3), Louis Hawks (2),No,older formats
+1963,Eastern Division Finals,Boston Celtics (1),Cincinnati Royals (3),Boston Celtics (1),No,older formats
+1963,Western Division Finals,Los Angeles Lakers (1), Louis Hawks (2),Los Angeles Lakers (1),No,older formats
+1963,Finals,Boston Celtics (1),Los Angeles Lakers (1),Boston Celtics (1),No,older formats
+1962,Eastern Division Semifinals,Philadelphia Warriors (2),Syracuse Nationals (3),Philadelphia Warriors (2),No,older formats
+1962,Western Division Semifinals,Detroit Pistons (3),Cincinnati Royals (2),Detroit Pistons (3),Yes,older formats
+1962,Eastern Division Finals,Boston Celtics (1),Philadelphia Warriors (2),Boston Celtics (1),No,older formats
+1962,Western Division Finals,Los Angeles Lakers (1),Detroit Pistons (3),Los Angeles Lakers (1),No,older formats
+1962,Finals,Boston Celtics (1),Los Angeles Lakers (1),Boston Celtics (1),No,older formats
+1961,Eastern Division Semifinals,Syracuse Nationals (3),Philadelphia Warriors (2),Syracuse Nationals (3),Yes,older formats
+1961,Western Division Semifinals,Los Angeles Lakers (2),Detroit Pistons (3),Los Angeles Lakers (2),No,older formats
+1961,Eastern Division Finals,Boston Celtics (1),Syracuse Nationals (3),Boston Celtics (1),No,older formats
+1961,Western Division Finals, Louis Hawks (1),Los Angeles Lakers (2), Louis Hawks (1),No,older formats
+1961,Finals,Boston Celtics (1), Louis Hawks (1),Boston Celtics (1),No,older formats
+1960,Eastern Division Semifinals,Philadelphia Warriors (2),Syracuse Nationals (3),Philadelphia Warriors (2),No,older formats
+1960,Western Division Semifinals,Minneapolis Lakers (3),Detroit Pistons (2),Minneapolis Lakers (3),Yes,older formats
+1960,Eastern Division Finals,Boston Celtics (1),Philadelphia Warriors (2),Boston Celtics (1),No,older formats
+1960,Western Division Finals, Louis Hawks (1),Minneapolis Lakers (3), Louis Hawks (1),No,older formats
+1960,Finals,Boston Celtics (1), Louis Hawks (1),Boston Celtics (1),No,older formats
+1959,Eastern Division Semifinals,Syracuse Nationals (3),New York Knicks (2),Syracuse Nationals (3),Yes,older formats
+1959,Western Division Semifinals,Minneapolis Lakers (2),Detroit Pistons (3),Minneapolis Lakers (2),No,older formats
+1959,Eastern Division Finals,Boston Celtics (1),Syracuse Nationals (3),Boston Celtics (1),No,older formats
+1959,Western Division Finals,Minneapolis Lakers (2), Louis Hawks (1),Minneapolis Lakers (2),Yes,older formats
+1959,Finals,Boston Celtics (1),Minneapolis Lakers (2),Boston Celtics (1),No,older formats
+1958,Eastern Division Semifinals,Philadelphia Warriors (3),Syracuse Nationals (2),Philadelphia Warriors (3),Yes,older formats
+1958,Western Division Semifinals,Detroit Pistons (2),Cincinnati Royals (3),Detroit Pistons (2),No,older formats
+1958,Eastern Division Finals,Boston Celtics (1),Philadelphia Warriors (3),Boston Celtics (1),No,older formats
+1958,Western Division Finals, Louis Hawks (1),Detroit Pistons (2), Louis Hawks (1),No,older formats
+1958,Finals, Louis Hawks (1),Boston Celtics (1), Louis Hawks (1),No,older formats
+1957,Eastern Division Semifinals,Syracuse Nationals (2),Philadelphia Warriors (3),Syracuse Nationals (2),No,older formats
+1957,Western Division Semifinals,Minneapolis Lakers (2),Fort Wayne Pistons (3),Minneapolis Lakers (2),No,older formats
+1957,Eastern Division Finals,Boston Celtics (1),Syracuse Nationals (2),Boston Celtics (1),No,older formats
+1957,Western Division Finals, Louis Hawks (1),Minneapolis Lakers (2), Louis Hawks (1),No,older formats
+1957,Finals,Boston Celtics (1), Louis Hawks (1),Boston Celtics (1),No,older formats
+1956,Eastern Division Semifinals,Syracuse Nationals (3),Boston Celtics (2),Syracuse Nationals (3),Yes,older formats
+1956,Western Division Semifinals, Louis Hawks (3),Minneapolis Lakers (2), Louis Hawks (3),Yes,older formats
+1956,Eastern Division Finals,Philadelphia Warriors (1),Syracuse Nationals (3),Philadelphia Warriors (1),No,older formats
+1956,Western Division Finals,Fort Wayne Pistons (1), Louis Hawks (3),Fort Wayne Pistons (1),No,older formats
+1956,Finals,Philadelphia Warriors (1),Fort Wayne Pistons (1),Philadelphia Warriors (1),No,older formats
+1955,Eastern Division Semifinals,Boston Celtics (3),New York Knicks (2),Boston Celtics (3),Yes,older formats
+1955,Western Division Semifinals,Minneapolis Lakers (2),Rochester Royals (3),Minneapolis Lakers (2),No,older formats
+1955,Eastern Division Finals,Syracuse Nationals (1),Boston Celtics (3),Syracuse Nationals (1),No,older formats
+1955,Western Division Finals,Fort Wayne Pistons (1),Minneapolis Lakers (2),Fort Wayne Pistons (1),No,older formats
+1955,Finals,Syracuse Nationals (1),Fort Wayne Pistons (1),Syracuse Nationals (1),No,older formats
+1954,Eastern Division Finals,Syracuse Nationals (1),Boston Celtics (2),Syracuse Nationals (1),No,older formats
+1954,Western Division Finals,Minneapolis Lakers (1),Rochester Royals (2),Minneapolis Lakers (1),No,older formats
+1954,Finals,Minneapolis Lakers (1),Syracuse Nationals (1),Minneapolis Lakers (1),No,older formats
+1953,Eastern Division Semifinals,Boston Celtics (3),Syracuse Nationals (2),Boston Celtics (3),Yes,older formats
+1953,Eastern Division Semifinals,New York Knicks (1),Baltimore Bullets (4),New York Knicks (1),No,older formats
+1953,Western Division Semifinals,Fort Wayne Pistons (3),Rochester Royals (2),Fort Wayne Pistons (3),Yes,older formats
+1953,Western Division Semifinals,Minneapolis Lakers (1),Indianapolis Olympians (4),Minneapolis Lakers (1),No,older formats
+1953,Eastern Division Finals,New York Knicks (1),Boston Celtics (3),New York Knicks (1),No,older formats
+1953,Western Division Finals,Minneapolis Lakers (1),Fort Wayne Pistons (3),Minneapolis Lakers (1),No,older formats
+1953,Finals,Minneapolis Lakers (1),New York Knicks (1),Minneapolis Lakers (1),No,older formats
+1952,Eastern Division Semifinals,New York Knicks (3),Boston Celtics (2),New York Knicks (3),Yes,older formats
+1952,Eastern Division Semifinals,Syracuse Nationals (1),Philadelphia Warriors (4),Syracuse Nationals (1),No,older formats
+1952,Western Division Semifinals,Minneapolis Lakers (2),Indianapolis Olympians (3),Minneapolis Lakers (2),No,older formats
+1952,Western Division Semifinals,Rochester Royals (1),Fort Wayne Pistons (4),Rochester Royals (1),No,older formats
+1952,Eastern Division Finals,New York Knicks (3),Syracuse Nationals (1),New York Knicks (3),Yes,older formats
+1952,Western Division Finals,Minneapolis Lakers (2),Rochester Royals (1),Minneapolis Lakers (2),Yes,older formats
+1952,Finals,Minneapolis Lakers (2),New York Knicks (3),Minneapolis Lakers (2),No,older formats
+1951,Eastern Division Semifinals,New York Knicks (3),Boston Celtics (2),New York Knicks (3),Yes,older formats
+1951,Eastern Division Semifinals,Syracuse Nationals (4),Philadelphia Warriors (1),Syracuse Nationals (4),Yes,older formats
+1951,Western Division Semifinals,Minneapolis Lakers (1),Indianapolis Olympians (4),Minneapolis Lakers (1),No,older formats
+1951,Western Division Semifinals,Rochester Royals (2),Fort Wayne Pistons (3),Rochester Royals (2),No,older formats
+1951,Eastern Division Finals,New York Knicks (3),Syracuse Nationals (4),New York Knicks (3),No,older formats
+1951,Western Division Finals,Rochester Royals (2),Minneapolis Lakers (1),Rochester Royals (2),Yes,older formats
+1951,Finals,Rochester Royals (2),New York Knicks (3),Rochester Royals (2),No,older formats
+1950,Central Division Semifinals,Fort Wayne Pistons (3),Rochester Royals (2),Fort Wayne Pistons (3),Yes,older formats
+1950,Central Division Semifinals,Minneapolis Lakers (1),Chicago Stags (4),Minneapolis Lakers (1),No,older formats
+1950,Eastern Division Semifinals,New York Knicks (2),Washington Capitols (3),New York Knicks (2),No,older formats
+1950,Eastern Division Semifinals,Syracuse Nationals (1),Philadelphia Warriors (4),Syracuse Nationals (1),No,older formats
+1950,Western Division Semifinals,Anderson Packers (2),Cities Blackhawks (3),Anderson Packers (2),No,older formats
+1950,Western Division Semifinals,Indianapolis Olympians (1),Sheboygan Red Skins (4),Indianapolis Olympians (1),No,older formats
+1950,Central Division Finals,Minneapolis Lakers (1),Fort Wayne Pistons (3),Minneapolis Lakers (1),No,older formats
+1950,Eastern Division Finals,Syracuse Nationals (1),New York Knicks (2),Syracuse Nationals (1),No,older formats
+1950,Western Division Finals,Anderson Packers (2),Indianapolis Olympians (1),Anderson Packers (2),Yes,older formats
+1950,Semifinals,Minneapolis Lakers (2),Anderson Packers (3),Minneapolis Lakers (2),No,older formats
+1950,Finals,Minneapolis Lakers (2),Syracuse Nationals (1),Minneapolis Lakers (2),Yes,older formats
+1949,Eastern Division Semifinals,New York Knicks (2),Baltimore Bullets (3),New York Knicks (2),No,older formats
+1949,Eastern Division Semifinals,Washington Capitols (1),Philadelphia Warriors (4),Washington Capitols (1),No,older formats
+1949,Western Division Semifinals,Minneapolis Lakers (2),Chicago Stags (3),Minneapolis Lakers (2),No,older formats
+1949,Western Division Semifinals,Rochester Royals (1), Louis Bombers (4),Rochester Royals (1),No,older formats
+1949,Eastern Division Finals,Washington Capitols (1),New York Knicks (2),Washington Capitols (1),No,older formats
+1949,Western Division Finals,Minneapolis Lakers (2),Rochester Royals (1),Minneapolis Lakers (2),Yes,older formats
+1949,Finals,Minneapolis Lakers (2),Washington Capitols (1),Minneapolis Lakers (2),Yes,older formats
+1948,Quarterfinals,Baltimore Bullets (2),New York Knicks (2),Baltimore Bullets (2),No,older formats
+1948,Quarterfinals,Chicago Stags (3),Boston Celtics (3),Chicago Stags (3),No,older formats
+1948,Semifinals,Baltimore Bullets (2),Chicago Stags (3),Baltimore Bullets (2),No,older formats
+1948,Semifinals,Philadelphia Warriors (1), Louis Bombers (1),Philadelphia Warriors (1),No,older formats
+1948,Finals,Baltimore Bullets (2),Philadelphia Warriors (1),Baltimore Bullets (2),Yes,older formats
+1947,Quarterfinals,New York Knicks (3),Cleveland Rebels (3),New York Knicks (3),No,older formats
+1947,Quarterfinals,Philadelphia Warriors (2), Louis Bombers (2),Philadelphia Warriors (2),No,older formats
+1947,Semifinals,Chicago Stags (1),Washington Capitols (1),Chicago Stags (1),No,older formats
+1947,Semifinals,Philadelphia Warriors (2),New York Knicks (3),Philadelphia Warriors (2),No,older formats
+1947,Finals,Philadelphia Warriors (2),Chicago Stags (1),Philadelphia Warriors (2),Yes,older formats
